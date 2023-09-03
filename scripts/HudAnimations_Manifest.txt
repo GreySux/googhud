@@ -1,0 +1,22 @@
+hudanimations_manifest
+{
+	"file" "scripts/hudanimations.txt"
+	"file" "scripts/hudanimations_ciba.txt"
+//	"file" "scripts/hudanimations_health.txt"
+	"file" "scripts/hudanimations_healthcross.txt"
+	"file" "scripts/hudanimations_ammo.txt"
+//	"file" "scripts/hudanimations_ammoglitch.txt"
+//	"file" "scripts/hudanimations_ammoglitch_minmode.txt"
+	"file" "scripts/hudanimations_medic.txt"
+	"file" "resource/crosshairs/crosshair_animation.txt"
+	"file" "scripts/hudanimations_tf.txt"
+	"file"		"scripts/hudanimations_ammohealth.txt"
+	"file"		"scripts/hudanimations_mediccharge.txt"
+	"file"		"scripts/hudanimations_fix.txt"
+	"file"		"scripts/hudanimations_spycloak.txt"
+	"file"		"scripts/hudanimations_teamstatus.txt"
+	"file"		"scripts/hudanimations_koth.txt"
+	"file"		"scripts/hudanimations_ctf.txt"
+	"file"		"scripts/hudanimations_chatfix.txt"
+	"file"		"scripts/hudanimations_tournament.txt"
+}

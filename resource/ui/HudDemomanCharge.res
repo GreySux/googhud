@@ -1,0 +1,100 @@
+"Resource/UI/HudDemomanCharge.res"
+{	
+	"ChargeMeter"
+	{	
+		"ControlName"								"ContinuousProgressBar"
+		"fieldName"									"ChargeMeter"
+		"xpos"										"c-40"
+		"xpos_minmode"								"c-50"
+		"ypos"										"c130"
+		"ypos_minmode"								"c63"
+		"zpos"										"1"
+		"wide"										"80"
+		"wide_minmode"								"100"
+		"tall"										"2"			
+		"autoResize"								"0"
+		"pinCorner"									"0"
+		"visible"									"1"
+		"enabled"									"1"
+		"textAlignment"								"Left"
+		"dulltext"									"0"
+		"brighttext"								"0"
+	}
+	
+	"ChargeMeterLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ChargeMeterLabel"
+		"xpos"										"c-22"
+		"xpos_minmode"								"c-20"
+		"ypos"										"c130"
+		"ypos_minmode"								"c64"
+		"zpos"										"2"
+		"wide"										"41"
+		"tall"										"15"
+		"autoResize"								"1"
+		"pinCorner"									"2"
+		"visible"									"1"
+		"enabled"									"1"
+		"tabPosition"								"0"
+		"labelText"									"Charge"
+		"textAlignment"								"center"
+		"dulltext"									"0"
+		"brighttext"								"0"
+		"font"										"GameFont8"
+	}
+	
+	//== custom =================================
+
+	"ChargeMeterDivider25"
+	{
+		"controlName"	"ImagePanel"
+		"fieldName"		"ChargeMeterDivider25"
+		"xpos"			"-20"
+		"xpos_minmode"			"-25"
+		"ypos"			"0"
+		"zpos"			"3"
+		"wide"			"1"
+		"tall"			"2"
+		"visible"		"1"
+		"fillcolor"		"50 50 50 255"
+		"pin_to_sibling" 							"ChargeMeter"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
+	}
+
+	"ChargeMeterDivider50"
+	{
+		"controlName"	"ImagePanel"
+		"fieldName"		"ChargeMeterDivider50"
+		"xpos"			"-40"
+		"xpos_minmode"			"-50"
+		"ypos"			"0"
+		"zpos"			"3"
+		"wide"			"1"
+		"tall"			"2"
+		"visible"		"1"
+		"fillcolor"		"50 50 50 255"
+		"pin_to_sibling" 							"ChargeMeter"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
+	}
+
+	"ChargeMeterDivider75"
+	{
+		"controlName"	"ImagePanel"
+		"fieldName"		"ChargeMeterDivider75"
+		"xpos"			"-60"
+		"xpos_minmode"			"-75"
+		"ypos"			"0"
+		"zpos"			"3"
+		"wide"			"1"
+		"tall"			"2"
+		"visible"		"1"
+		"fillcolor"		"50 50 50 255"
+		"pin_to_sibling" 							"ChargeMeter"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
+	}
+
+}
