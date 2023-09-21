@@ -932,7 +932,7 @@
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"close_button"
+				"image"			"replay/thumbnails/googus"
 				"scaleImage"	"1"
 			}				
 		}		

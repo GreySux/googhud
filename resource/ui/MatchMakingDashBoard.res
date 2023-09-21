@@ -684,7 +684,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton"
 			"xpos"			"rs1-18"
-			"ypos"			"-1"
+			"ypos"			"1"
 			"zpos"			"100"
 			"wide"			"17"
 			"tall"			"23"
@@ -714,8 +714,8 @@
 			"armedBgColor_override"		"Blank"
 			"defaultBgColor_override"	"Blank"
 
-			"defaultFgColor_override" "TanLight"
-			"armedFgColor_override" "TanLight"
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "White"
 			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"100 255 0 255"
 
@@ -726,8 +726,8 @@
 				"xpos"			"2"
 				"ypos"			"9"
 				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
+				"wide"			"13"
+				"tall"			"13"
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
@@ -736,5 +736,88 @@
 				"drawcolor_override" "White"
 			}
 		}
+		"DemoUIButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"DemoUIButton"
+			"xpos"			"rs1-34"
+			"ypos"			"0"
+			"zpos"			"100"
+			"wide"			"17"
+			"tall"			"23"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"CustomIcons14"
+			"textAlignment"	"west"
+			"textinsetx"	"0"
+			"textinsety"	"9"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"proportionaltoparent"	"1"
+			"labeltext"		"F"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+			"actionsignallevel"	"3"
+			"RoundedCorners"	"0"
+			"command" 		"engine demoui"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"armedBgColor_override"		"Blank"
+			"defaultBgColor_override"	"Blank"
+
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "153 51 255 255"
+
+			"image_drawcolor"	"255 255 255 255"
+			"image_armedcolor"	"153 51 255 255"
+
+		}
+		"ReloadHUDButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"ReloadHUDButton"
+			"xpos"			"rs1-53"
+			"ypos"			"0"
+			"zpos"			"100"
+			"wide"			"17"
+			"tall"			"23"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"CustomIcons14"
+			"textAlignment"	"west"
+			"textinsetx"	"0"
+			"textinsety"	"9"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"Command"		"engine hud_reloadscheme; record fix; stop"
+			"proportionaltoparent"	"1"
+			"labeltext"		"Z"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+			"actionsignallevel"	"3"
+			"RoundedCorners"	"0"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"armedBgColor_override"		"Blank"
+			"defaultBgColor_override"	"Blank"
+
+			"defaultFgColor_override" "White"
+			"armedFgColor_override" "255 128 0 255"
+
+			"image_drawcolor"	"255 255 255 255"
+			"image_armedcolor"	"255 128 0 255"
+
+		}
+
 	}
 }

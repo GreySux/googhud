@@ -12,7 +12,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"46"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -22,7 +22,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"8"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -32,7 +32,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"9"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -42,7 +42,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -52,7 +52,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"11"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -62,7 +62,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -72,7 +72,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -82,7 +82,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -92,7 +92,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -102,7 +102,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -112,7 +112,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -122,7 +122,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -132,7 +132,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"32"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -142,7 +142,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -152,7 +152,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -162,7 +162,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"50"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -172,7 +172,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"70"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -182,7 +182,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -193,7 +193,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"12"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -204,7 +204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"14"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -215,7 +215,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -226,7 +226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"18"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -237,7 +237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -248,7 +248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"24"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -259,7 +259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"30"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -270,7 +270,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"32"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -281,7 +281,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"40"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -292,7 +292,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"44"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -313,7 +313,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -323,7 +323,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -333,7 +333,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"										"20"
 				"additive"									"0"
 				"antialias" 								"1"
@@ -358,28 +358,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"		  								"Altone Trial Regular"
+				"name"		  								"Inter Medium"
 				"tall"      								"14"
 				"antialias" 								"1"
 				"yres"	    								"480 700"
 			}
 			"2"
 			{
-				"name"		 								"Altone Trial Regular"
+				"name"		 								"Inter Medium"
 				"tall"      								"18"
 				"antialias" 								"1"
 				"yres"	    								"701 899"
 			}
 			"3"
 			{
-				"name"		  								"Altone Trial Regular"
+				"name"		  								"Inter Medium"
 				"tall"      								"22"
 				"antialias" 								"1"
 				"yres"	    								"900 1000"
 			}
 			"4"
 			{
-				"name"		  								"Altone Trial Regular"
+				"name"		  								"Inter Medium"
 				"tall"      								"24"
 				"antialias" 								"1"
 				"yres"	    								"1001 10000"
@@ -390,28 +390,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"      								"14"
 				"antialias" 								"1"
 				"yres"										"480 700"
 			}
 			"2"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"      								"18"
 				"antialias" 								"1"
 				"yres"										"701 899"
 			}
 			"3"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"     									"24"
 				"antialias" 								"1"
 				"yres"										"900 1000"
 			}
 			"4"
 			{
-				"name"										"Altone Trial Regular"
+				"name"										"Inter Medium"
 				"tall"      								"30"
 				"antialias" 								"1"
 				"yres"										"1001 10000"
@@ -422,7 +422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -430,7 +430,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -438,7 +438,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -447,7 +447,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -456,7 +456,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -469,7 +469,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"yres"	"480 599"
@@ -477,7 +477,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"15"	[$WIN32]
 				"tall"		"18"	[$X360]
 				"weight"	"500"
@@ -486,7 +486,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"yres"	"768 1023"
@@ -494,7 +494,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"22"
 				"weight"	"500"
 				"yres"	"1024 1199"
@@ -502,7 +502,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"yres"	"1200 10000"
@@ -514,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -524,7 +524,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -534,7 +534,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -543,7 +543,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -552,7 +552,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -564,7 +564,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -577,7 +577,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -590,7 +590,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -602,7 +602,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -613,7 +613,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -624,7 +624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -637,7 +637,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -648,7 +648,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -659,7 +659,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -670,7 +670,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -683,7 +683,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -696,7 +696,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"			"14"
 				"tall_lodef"	"16"
 				"weight"		"500"
@@ -708,7 +708,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -719,7 +719,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -730,7 +730,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -742,7 +742,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -754,7 +754,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -766,7 +766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -777,7 +777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -809,7 +809,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Altone Trial Regular"
+				"name"  "Inter Medium"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -844,7 +844,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -854,7 +854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -865,7 +865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -876,7 +876,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"13"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
@@ -890,7 +890,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Altone Trial Regular"
+				"name"			"Inter Medium"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -905,7 +905,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Altone Trial Regular"
+				"name"			"Inter Medium"
 				"tall"			"40"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -920,7 +920,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -933,7 +933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Altone Trial Regular"
+				"name"			"Inter Medium"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"tall_lodef"	"32"
@@ -947,7 +947,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -958,7 +958,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
@@ -971,7 +971,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -984,7 +984,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -996,7 +996,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1008,7 +1008,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -1022,7 +1022,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1034,7 +1034,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1046,7 +1046,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1061,7 +1061,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -1073,7 +1073,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1083,7 +1083,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1093,7 +1093,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1102,7 +1102,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1111,7 +1111,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1134,7 +1134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1203,7 +1203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1216,7 +1216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1239,7 +1239,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -1252,7 +1252,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
@@ -1267,7 +1267,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1276,7 +1276,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1285,7 +1285,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1298,7 +1298,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1309,7 +1309,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1320,7 +1320,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -1331,7 +1331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1342,7 +1342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -1353,7 +1353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -1363,7 +1363,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1374,7 +1374,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1385,7 +1385,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1397,7 +1397,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1408,7 +1408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -1421,7 +1421,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -1432,7 +1432,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -1443,7 +1443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -1453,7 +1453,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -1466,7 +1466,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -1477,7 +1477,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1489,7 +1489,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -1501,7 +1501,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1514,7 +1514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -1525,7 +1525,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Altone Trial Regular"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -1580,8 +1580,8 @@ Scheme
 		}
 		"14" 
 		{
-			"font" 		"resource/scheme/fontfiles/AltoneTrial-Regular.ttf"
-			"name" 		"Altone Trial Regular"
+			"font" 		"resource/scheme/fontfiles/Inter-Medium.ttf"
+			"name" 		"Inter Medium"
 		}
 	}
 }

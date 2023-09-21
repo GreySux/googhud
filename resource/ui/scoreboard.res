@@ -1,5 +1,19 @@
 "Resource/UI/Scoreboard.res"
 {
+	"Googus"
+			{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"Googus"
+			"xpos"			"650"
+			"ypos"			"90"
+			"zpos"			"99"
+			"wide"			"16"
+			"tall"			"16"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/googus"
+			"scaleImage"	"1"
+			}
 	"scores"
 	{
 		"ControlName"		"CTFClientScoreBoardDialog"
@@ -223,8 +237,8 @@
 		"tall"			"55"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -235,19 +249,19 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
-		"font"			"GameFont12"
+		"font"			"GameFont8"
 		"labelText"		"%blueteamplayercount%"
 		"textAlignment"		"west"
-		"xpos"			"c-246"
+		"xpos"			"c-208"
 		"xpos_minmode"	"c-160"
-		"ypos"			"106"
+		"ypos"			"125"
 		"ypos_minmode"	"99"
 		"wide"			"100"
 		"tall"			"29"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		if_mvm
 		{
@@ -325,8 +339,8 @@
 		"tall"			"55"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		if_mvm
 		{
@@ -337,20 +351,20 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamPlayerCount"
-		"font"			"GameFont20"
+		"font"			"GameFont8"
 		"labelText"		"%redteamplayercount%"
 		"textAlignment"		"east"
 		"textAlignment_minmode" "west"
-		"xpos"			"c196"
+		"xpos"			"c-95"
 		"xpos_minmode"	"c-160"
-		"ypos"			"99"
+		"ypos"			"125"
 		"ypos_minmode"	"323"
 		"wide"			"130"
 		"tall"			"29"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		
 		if_mvm
 		{
@@ -361,7 +375,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
 		"xpos"			"c-240"
@@ -387,7 +401,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"WeblySleek12"
+		"font"			"HudFont12"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"west"
 		"xpos"          "c-240"
@@ -507,7 +521,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
 		"xpos"			"c-240"
@@ -532,7 +546,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SpectatorsInQueue"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"		"west"
 		"xpos"			"c-240"

@@ -6,12 +6,12 @@
 
 	"ItemEffectMeterLabel"
 	{
-		"ypos"					"15"
+		"ypos"					"16"
 	}
 
 	"ItemEffectMeter"
 	{
-		"ypos"					"15"
+		"ypos"					"16"
 	}
 
 	//== #base custom ===========================

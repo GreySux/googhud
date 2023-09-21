@@ -2,7 +2,7 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"								"85"
+		"delta_item_x"							"85"
 		"delta_item_x_minmode"						"92"
 		"delta_item_start_y"						"12"
 		"delta_item_end_y"							"16"

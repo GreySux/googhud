@@ -189,9 +189,9 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"DefaultVerySmall"			
+			"font"			"GameFont8"			
 			"xpos"			"22"			
-			"ypos"			"57"		
+			"ypos"			"58"		
 			"zpos"			"2"
 			"wide"			"10"
 			"tall"			"10"
@@ -394,7 +394,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"DefaultSmall"
+			"font"			"GameFont9"
 			"xpos"			"25"
 			"ypos"			"58"
 			"zpos"			"4"

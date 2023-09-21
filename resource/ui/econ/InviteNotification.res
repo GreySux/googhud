@@ -38,12 +38,12 @@
 			"wide"			"f35"
 		}
 
-		"xpos"			"rs1-28"
-		"ypos"			"1"
+		"xpos"			"rs1-30"
+		"ypos"			"0"
 		"wide"			"f65"
 		"tall"			"17"
 		"labelText"		"%invite%"
-		"textAlignment"	"west"
+		"textAlignment"	"east"
 		"AllCaps"	"1"
 		"proportionaltoparent"	"1"
 		"fgcolor_override"	"White"

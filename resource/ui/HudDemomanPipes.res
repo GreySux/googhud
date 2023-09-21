@@ -56,7 +56,7 @@
 		"fieldName"									"PipesPresentPanel"
 		"xpos"										"c-15"
 		"xpos_minmode"								"0"
-		"ypos"										"c112"
+		"ypos"										"c70"
 		"ypos_minmode"								"-52"
 		"zpos"										"1"
 		"wide"										"f0"

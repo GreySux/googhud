@@ -3,6 +3,17 @@
 
 "Resource/HudLayout.res"
 {	
+	"CurrencyStatusPanel"
+	{
+		"ControlName"								"CCurrencyStatusPanel"
+		"fieldName"									"CurrencyStatusPanel"
+		"xpos"										"42"
+		"ypos"										"r35"
+		"wide"										"100"
+		"tall"										"100"
+		"visible" 									"1"
+		"enabled" 									"1"
+	}
 	HudWeaponAmmo
 	{
 		"fieldName" 								"HudWeaponAmmo"
@@ -142,7 +153,7 @@ HudMatchStatus
 	{
 		"fieldName"									"CHudAccountPanel"
 		"xpos"         								"c-100"
-		"ypos"										"c85"
+		"ypos"										"c73"
 		"ypos_minmode"								"c10"
 		"wide"										"200"
 		"tall"  									"50"

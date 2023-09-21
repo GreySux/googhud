@@ -11,8 +11,8 @@
 		"tall"										"50"
 		"visible"									"1"
 		"enabled"									"1"
-		"fgcolor"									"DarkBG"
-		"fgcolor_override"							"DarkBG"
+		"fgcolor"									"White"
+		"fgcolor_override"							"White"
 	}
 
 	"AvatarBGPanel"
@@ -49,8 +49,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AvatarTextLabel"
-		"fgcolor"									"DarkBG"
-		"fgcolor_override" 							"DarkBG"
+		"fgcolor"									"White"
+		"fgcolor_override" 							"White"
 		"xpos"										"45"
 		"ypos"										"7"
 		"zpos"										"2"
@@ -70,8 +70,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"TextLabel"
-		"fgcolor"									"DarkBG"
-		"fgcolor_override" 							"DarkBG"
+		"fgcolor"									"White"
+		"fgcolor_override" 							"White"
 		
 		"if_high_priority"
 		{
