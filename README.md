@@ -5,7 +5,7 @@ Currently 0.3.1 release, there are still bugs and things that need adjusting. Th
 Screenshots: https://imgur.com/a/Vn0f9WS
 
 
-Thanks to the following folks who i borrowed hud elements from:
+Thanks to the following folks who I borrowed hud elements from:
 
 - cibacity - cibahud (base)
 - static - voidhud
