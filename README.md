@@ -1,4 +1,4 @@
-#This is googHUD! A hud designed for Team Fortress 2, specifically with competitive in mind to give the most important information to the player without overbearing them. The idea is to be simplistic but clean. 
+# This is googHUD! A hud designed for Team Fortress 2, specifically with competitive in mind to give the most important information to the player without overbearing them. The idea is to be simplistic but clean. 
 
 Currently 0.3.1 release,there are still bugs and things that need adjusting. This should be considered a beta version, and while it is stable for competitive usage, you may encounter some bugs. 
 
