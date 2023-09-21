@@ -13,6 +13,7 @@ Thanks to the following folks who i borrowed hud elements from:
 - jarateking - HUD Reference
 
 TO DO:
+- add more resoution compatability (currently only 1920x1080, 2560x1440 option)
 - main menu / pause menu overhaul
 - misc bug fixes
 - minmode compatability
