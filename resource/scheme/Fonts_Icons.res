@@ -92,8 +92,40 @@ Scheme
                 "antialias"    								"1"
                 "dropshadow"    							"0"
             }
+	
+		"Class Symbols 40"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"40"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"Class Symbols 48"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"48"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"Class Symbols 72"
+		{
+			"1"
+			{
+				"name"			"TF2 Class Icons"
+				"tall"			"72"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
         }
-	}
 	
 	CustomFontFiles
 	{
@@ -131,6 +163,11 @@ Scheme
 		{
 			"font" 		"resource/scheme/fontfiles/Blocks.ttf"
 			"name" 		"Blocks"
+		}
+		"27"
+		{
+			"font"		"resource/scheme/fontfiles/TF2 Class Icons.otf"
+			"name" 		"TF2 Class Icons"
 		}
 	}
 }
