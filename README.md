@@ -16,9 +16,7 @@ Thanks to the following folks who I borrowed hud elements from:
 TO DO:
 - add more resoution compatability (currently only 1920x1080, 2560x1440 in the works)
 - loadout overhaul
-- class selection overhaul
 - main menu / pause menu overhaul
-- disguise menu overhaul / fix
 - plenty of bug fixes for various things
 - minmode compatability
 - customization friendly interface
