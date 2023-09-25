@@ -1620,5 +1620,10 @@ Scheme
 			"font"		"resource/scheme/fontfiles/TF2 Class Icons.otf"
 			"name" 		"TF2 Class Icons"
 		}
+		"88" 
+		{
+			"font" 		"resource/scheme/fontfiles/Emblems.ttf"
+			"name" 		"Emblems"
+		}
 	}
 }
