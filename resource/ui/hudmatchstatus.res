@@ -458,7 +458,7 @@
 				"visible"							"1"
 				"textinsetx"						"1"
 				"labelText"							"%playername%"
-				"font"								"GameFont8"
+				"font"								"HudFont24"
 				"textAlignment"						"center"
 				"bgcolor_override"					"33 33 33 196"
 				"proportionaltoparent"				"1"

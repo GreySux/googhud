@@ -128,9 +128,9 @@
 		"fieldName"									"By"
 		"font"										"GameFont50"
 		"fgcolor_override"   						"255 255 255 255"
-		"xpos"										"c-108"
-		"ypos"										"108"
-		"zpos"										"-15"
+		"xpos"										"cs-0.5"
+		"ypos"										"100"
+		"zpos"										"5"
 		"wide"										"200"
 		"tall"										"50"
 		"textinsetx"								"15"
@@ -140,7 +140,7 @@
 		"enabled"									"1"
 		"wrap"										"0"
 		"labelText"									"googHUD"
-		"textAlignment"								"west"	
+		"textAlignment"								"center"	
 	}
 	
 	
@@ -193,7 +193,7 @@
 		"ControlName"								"CPvPRankPanel"
 		"fieldName"									"RankPanel"
 		"xpos"										"160"
-		"ypos"										"0"
+		"ypos"										"1"
 		"zpos"										"10003"
 		"wide"										"200"
 		"tall"										"30"

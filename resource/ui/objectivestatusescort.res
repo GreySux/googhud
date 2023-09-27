@@ -394,7 +394,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"GameFont9"
+			"font"			"DefaultSmall"
 			"xpos"			"25"
 			"ypos"			"58"
 			"zpos"			"4"

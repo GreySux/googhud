@@ -153,7 +153,7 @@ HudMatchStatus
 	{
 		"fieldName"									"CHudAccountPanel"
 		"xpos"         								"c-100"
-		"ypos"										"c73"
+		"ypos"										"c85"
 		"ypos_minmode"								"c10"
 		"wide"										"200"
 		"tall"  									"50"
@@ -166,9 +166,9 @@ HudMatchStatus
 	{
 		"fieldName"									"CHealthAccountPanel"
 		"xpos"										"c-153"
-		"xpos_minmode"								"c-96"
+		"xpos_minmode"								"c-153"
 		"ypos"										"r110"
-		"ypos_minmode"								"r160"
+		"ypos_minmode"								"r110"
 		"wide"										"f0"
 		"tall"  									"24"
 		"visible" 									"1"

@@ -68,7 +68,7 @@
 		"font"										"GameFont12"
 		"fgcolor_override"   						"White"
 		"xpos"										"45"
-		"ypos"										"3"
+		"ypos"										"1"
 		"zpos"										"1"
 		"wide"										"92"
 		"tall"										"12"
@@ -86,7 +86,7 @@
 	{	
 		"ControlName"								"Label"
 		"fieldName"									"WeaponNameLabel"
-		"font"										"GameFont12"
+		"font"										"GameFont11"
 		"fgcolor_override"   						"White"
 		"xpos"										"45"
 		"ypos"										"12"
