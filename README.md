@@ -1,6 +1,6 @@
 # This is googHUD! A hud designed for Team Fortress 2, specifically with competitive in mind to give the most important information to the player without overbearing them. The idea is to be simplistic but clean. 
 
-To install, press the green "Code" on github, then download as ZIP. Once downloaded, open/unzip the file and drag the folder "googhud" into \Team Fortress 2\tf\custom
+To install, press the green "Code" on github, then download ZIP. Once downloaded, open/unzip the file and drag the folder "googhud-main" into \Team Fortress 2\tf\custom
 
 Currently 0.4 release. This should be considered a beta version, and while it is stable for competitive usage, you may encounter some bugs. 
 
