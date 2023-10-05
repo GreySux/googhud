@@ -2,7 +2,7 @@
 
 To install, press the green "Code" on github, then download ZIP. Once downloaded, open/unzip the file and drag the folder "googhud-main" into \Team Fortress 2\tf\custom
 
-Currently 0.4 release. This should be considered a beta version, and while it is stable for competitive usage, you may encounter some bugs. 
+Currently 0.5 release. This should be considered a beta version, and while it is stable for competitive usage, you may encounter some bugs. 
 
 Screenshots: https://imgur.com/a/Vn0f9WS
 
@@ -14,6 +14,7 @@ Thanks to the following folks who I borrowed hud elements from:
 - nokk - ahud
 - quickkennedy - cutehud
 - peaches - xhud
+- mrcolour - colourhud
 - jarateking - HUD Reference
 
 TO DO:
