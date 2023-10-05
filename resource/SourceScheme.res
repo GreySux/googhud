@@ -5,7 +5,7 @@ Scheme
 	Colors
 	{
 		// custom
-		"Main Theme"										"80 150 255 255"
+		"Main Theme"										"150 150 150 255"
 		
 		"DarkBG"											"15 15 15 255"
 		"DarkBGInactive"									"15 15 15 125"
