@@ -174,7 +174,7 @@
 		"xpos"			"c-173"	
 		"xpos_minmode"  "c-165"
 		"ypos"			"315" 
-		"ypos_minmode"	"322"		
+		"ypos_minmode"	"324"		
 		"zpos"			"-22"
 		"wide"			"67"
 		"wide_minmode"  "50"

@@ -1,0 +1,4 @@
+1. open the folder for the customization you want
+2. drag the .res files and place in resource/ui
+3. press yes if it asks to replace files
+4. bazinga

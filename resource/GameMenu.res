@@ -35,7 +35,7 @@
 	}
 	"Store"
 	{
-		"label"										"$$$"
+		"label"										"store"
 		"command"									"engine open_store"
 	}
 	"Settings"
@@ -45,7 +45,7 @@
 	}
 	"AdvancedSettings"
 	{
-		"label"										"secret settings"
+		"label"										"advanced settings"
 		"command"									"opentf2options"
 	}
 	"Console"
@@ -66,18 +66,6 @@
 		"label"										"r"
 		"command"									"OpenPlayerListDialog"
 		"OnlyInGame" 								"1"
-	}
-	"minmodeOff"
-	{
-		"label"										"minmode 0"
-		"command"									"engine cl_hud_minmode 0"
-		"OnlyInGame"								"1"
-	}
-	"minmodeOn"
-	{
-		"label"										"minmode 1"
-		"command"									"engine cl_hud_minmode 1"
-		"OnlyInGame"								"1"
 	}
 
 }

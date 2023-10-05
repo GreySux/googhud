@@ -9,7 +9,7 @@ Scheme
 		
 		/////////////////////////////////MENU COLORS///////////////////////////////////
 		
-		"Main Theme"										"210 111 246 255"
+		"Main Theme"										"150 150 150 255"
 		
 		"Background"										"30 30 30 255"
 		"DarkBG"											"15 15 15 75"
@@ -196,7 +196,7 @@ Scheme
 		"OrangeDim"											"80 150 255 255"
 		"LightOrange"										"80 150 255 255"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"80 150 255 255"
+		"TFOrange"										"74 74 74 255"
 
 		"QuestGold"											"208 147 75 255"
 		"HalloweenThemeColor2015_Light"						"238 126 17 255"
