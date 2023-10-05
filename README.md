@@ -4,7 +4,7 @@ To install, press the green "Code" on github, then download ZIP. Once downloaded
 
 Currently 0.5 release. This should be considered a beta version, and while it is stable for competitive usage, you may encounter some bugs. 
 
-Screenshots: https://imgur.com/a/Vn0f9WS
+Screenshots: https://imgur.com/gallery/H6aybW9
 
 
 Thanks to the following folks who I borrowed hud elements from:
