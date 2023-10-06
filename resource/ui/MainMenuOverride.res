@@ -1269,9 +1269,9 @@
 		"paintbackground"							"0"
 		"border"									"MaterialDarkBG"
 		
-		"pin_to_sibling" 							"FriendsContainer"
+		"pin_to_sibling" 							"WatchStreamButton"
 		"pin_corner_to_sibling" 					"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
 		
 		"Notifications_CloseButton"
 		{
@@ -1362,8 +1362,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Notifications_ShowButtonPanel"
-		"xpos"										"85"
-		"ypos"										"r29"
+		"xpos"										"153"
+		"ypos"										"r30"
 		"zpos"										"16"
 		"wide"										"32"
 		"tall"										"32"
@@ -1417,7 +1417,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor_override"						"255 255 0 255"
+			"fgcolor_override"						"255 255 255 255"
 		}
 	
 		"Notifications_ShowButtonPanel_SB"

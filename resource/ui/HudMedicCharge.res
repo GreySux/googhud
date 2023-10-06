@@ -21,6 +21,27 @@
 		"font"										"GameFont18"
 		"fgcolor"   								"Health Numbers"
 	}
+	"ChargeLabelShadow"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ChargeLabel"
+		"xpos"										"c-49"
+		"ypos"										"c11"
+		"zpos"										"2"
+		"wide"										"100"
+		"tall"										"20"
+		"autoResize"								"1"
+		"pinCorner"									"2"
+		"visible"									"1"
+		"enabled"									"1"
+		"tabPosition"								"0"
+		"labelText"									"#TF_UberchargeMinHUD"
+		"textAlignment"								"center"
+		"dulltext"									"0"
+		"brighttext"								"0"
+		"font"										"GameFont18"
+		"fgcolor"   								"Shadow"
+	}
 	
 	"ChargeLabelBig"
 	{
@@ -51,9 +72,9 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabelBigShadow"
-		"xpos"										"c67"
+		"xpos"										"c66"
 		"xpos_minmode"								"c4"
-		"ypos"										"c37"
+		"ypos"										"c36"
 		"ypos_minmode"								"c-8"
 		"zpos"										"2"
 		"wide"										"175"
@@ -67,8 +88,8 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"GameFont44Blur"
-		"font_minmode"								"GameFont30Blur"
+		"font"										"GameFont44"
+		"font_minmode"								"GameFont30"
 		"fgcolor"  									"Shadow"
 	}
 	

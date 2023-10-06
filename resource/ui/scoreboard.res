@@ -375,7 +375,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
 		"xpos"			"c-240"
@@ -401,7 +401,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"west"
 		"xpos"          "c-240"
@@ -521,7 +521,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
 		"xpos"			"c-240"
@@ -546,7 +546,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SpectatorsInQueue"
-		"font"			"WeblySleek12"
+		"font"			"GameFont12"
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"		"west"
 		"xpos"			"c-240"
@@ -778,7 +778,7 @@
 			{	
 				"ControlName"	"CExLabel"
 				"fieldName"		"AvatarTextLabel"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"ActualGray"
 				"xpos"			"50"
 				"ypos"			"7"
 				"zpos"			"2"
@@ -857,7 +857,7 @@
 			{	
 				"ControlName"	"CExLabel"
 				"fieldName"		"AvatarTextLabel"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"AcyualGray"
 				"xpos"			"50"
 				"ypos"			"7"
 				"zpos"			"2"

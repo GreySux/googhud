@@ -165,7 +165,7 @@ Scheme
 		"Health Numbers"									"255 255 255 255"
 
 		"Buffed Health"										"30 175 255 255"
-		"Buffed Health Pulse"								"80 150 255 255"
+		"Buffed Health Pulse"								"0 255 100 255"
 		
 		"Low Health"										"255 50 50 255"
 		"Low Health Pulse"									"255 0 0 255"
@@ -379,14 +379,14 @@ Scheme
 	
 	BaseSettings
 	{
-		ReplayBrowser.BgColor								"DarkBrown"
+		ReplayBrowser.BgColor								"Gray"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"Main Theme"
 		ReplayBrowser.Button.ArmedBgColor					"Main Theme"
 		ReplayBrowser.Button.DepressedBgColor				"Main Theme"
 		ReplayBrowser.CollectionTitle.FgColor				"Main Theme"
 		ReplayBrowser.Warning.FgColor						"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor		"TransparentYellow"
-		ReplayBrowser.Search.BgColor						"TanDark"
+		ReplayBrowser.Search.BgColor						"Background"
 		ReplayBrowser.Search.FgColor						"White"
 		
 		Replay.RenderDialog.BgColor							"LighterDarkBrown"
@@ -428,8 +428,8 @@ Scheme
 		CheckButton.Check									"White"
 		CheckButton.HighlightFgColor						"White"
 		
-		ComboBoxButton.ArrowColor							"TanLight"
-		ComboBoxButton.ArmedArrowColor						"TanLight"
+		ComboBoxButton.ArrowColor							"Gray"
+		ComboBoxButton.ArmedArrowColor						"Gray"
 		ComboBoxButton.BgColor								"Blank"
 		ComboBoxButton.DisabledBgColor						"Blank"
 
@@ -540,7 +540,7 @@ Scheme
 		TextEntry.CursorColor								"Gray"
 		TextEntry.DisabledTextColor							"Gray"
 		TextEntry.DisabledBgColor							"Blank"
-		TextEntry.SelectedTextColor							"TanLight"
+		TextEntry.SelectedTextColor							"Gray"
 		TextEntry.SelectedBgColor							"Gray"
 		TextEntry.OutOfFocusSelectedBgColor					"Blank"
 		TextEntry.FocusEdgeColor							"Blank"

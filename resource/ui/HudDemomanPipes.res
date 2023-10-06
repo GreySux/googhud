@@ -108,8 +108,8 @@
 			"textAlignment"							"center"
 			"dulltext"								"0"
 			"brighttext"							"0"
-			"font"									"GameFont14Blur"
-			"font_minmode"							"GameFont10Blur"
+			"font"									"GameFont18"
+			"font_minmode"							"GameFont12"
 			"fgcolor"								"Shadow"
 		}
 

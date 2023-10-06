@@ -23,7 +23,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"HudFontLarge"
 		"labelText"		"#ConfirmTitle"
 		"textAlignment"	"north"
 		"xpos"			"0"
@@ -36,7 +36,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"AllCaps"		"1"
-		"fgcolor_override" "Red"
+		"fgcolor_override" "Main Theme"
 	}
 	
 	"ExplanationLabel"
@@ -179,6 +179,6 @@
 		"brighttext"	"0"
 		"wrap"			"0"
 		"font"			"HudFontSmallest"
-		"selected_fgcolor_override" "Red"
+		"selected_fgcolor_override" "Main Theme"
 	}
 }

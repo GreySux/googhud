@@ -59,8 +59,8 @@
 		"textAlignment"								"center"
 		"dulltext"									"0"
 		"brighttext"								"0"
-		"font"										"GameFont18Blur"
-		"font_minmode"								"GameFont14Blur"
+		"font"										"GameFont18"
+		"font_minmode"								"GameFont14"
 		"fgcolor"   								"Shadow"
 		
 		"pin_to_sibling" 							"AccountValue"

@@ -642,7 +642,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"CloseButton"
@@ -688,7 +688,7 @@
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"replay/thumbnails/buttons/x"
+				"image"			"replay/thumbnails/googus"
 				"scaleImage"	"1"
 			}				
 		}		
@@ -799,7 +799,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"TextLabel"
@@ -818,7 +818,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"CloseButton"
@@ -864,7 +864,7 @@
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"close_button"
+				"image"			"replay/thumbnails/googus"
 				"scaleImage"	"1"
 			}				
 		}		
@@ -1023,7 +1023,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"TextLabel"
@@ -1042,7 +1042,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"CloseButton"
@@ -1088,7 +1088,7 @@
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"close_button"
+				"image"			"replay/thumbnails/googus"
 				"scaleImage"	"1"
 			}				
 		}		
@@ -1248,7 +1248,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"TextLabel"
@@ -1267,7 +1267,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"CloseButton"
@@ -1313,7 +1313,7 @@
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"replay/thumbnails/buttons/x"
+				"image"			"replay/thumbnails/googus"
 				"scaleImage"	"1"
 			}				
 		}		
@@ -1472,7 +1472,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"TextLabel"
@@ -1491,7 +1491,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "200 200 200 255"
 		}
 		
 		"CloseButton"
@@ -1537,7 +1537,7 @@
 				"tall"			"14"
 				"visible"		"1"
 				"enabled"		"1"
-				"image"			"replay/thumbnails/buttons/x"
+				"image"			"replay/thumbnails/googus"
 				"scaleImage"	"1"
 			}				
 		}		
@@ -1606,7 +1606,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "Main Theme"
 		}
 	}	
 }

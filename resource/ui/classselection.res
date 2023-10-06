@@ -1,5 +1,21 @@
 "Resource/UI/ClassSelection.res"
 {
+	"ClassPanelBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"ClassPanelBG"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs.85"
+		"zpos"			"0"
+		"wide"			"600"
+		"tall"			"85"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 0 0 200"
+		"scaleImage"		"1"
+	}
 	"class"
 	{
 		"ControlName"						"Frame"
@@ -501,8 +517,8 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"random"
-		"xpos"								"c-43"
-		"ypos"								"400"
+		"xpos"								"c-302"
+		"ypos"								"373"
 		"zpos"								"6"
 		"wide"								"86"
 		"tall"								"22"
@@ -544,8 +560,8 @@
 	{
 		"ControlName"						"CExButton"
 		"fieldName"							"EditLoadoutButton"
-		"xpos"								"r856"
-		"ypos"								"r18"
+		"xpos"								"c213"
+		"ypos"								"375"
 		"zpos"								"8"
 		"wide"								"90"
 		"tall"								"22"
