@@ -45,7 +45,7 @@
 		"enabled"					"1"
 		"textAlignment"				"center"	
 		"labeltext"					"%Health%"
-		"font"						"GameFont16Blur"
+		"font"						"GameFont16"
 		"fgcolor_override"			"Shadow"
 		
 		"pin_to_sibling"			"PlayerStatusHealthValueTarget"

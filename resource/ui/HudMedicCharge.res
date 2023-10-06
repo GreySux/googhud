@@ -24,7 +24,7 @@
 	"ChargeLabelShadow"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabel"
+		"fieldName"									"ChargeLabelShadow"
 		"xpos"										"c-49"
 		"ypos"										"c11"
 		"zpos"										"2"
@@ -40,7 +40,7 @@
 		"dulltext"									"0"
 		"brighttext"								"0"
 		"font"										"GameFont18"
-		"fgcolor"   								"Shadow"
+		"fgcolor_override"   								"Shadow"
 	}
 	
 	"ChargeLabelBig"

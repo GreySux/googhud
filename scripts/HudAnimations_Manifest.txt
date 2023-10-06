@@ -2,8 +2,15 @@ hudanimations_manifest
 {
 	"file" "scripts/hudanimations.txt"
 	"file" "scripts/hudanimations_goog.txt"
-//	"file" "scripts/hudanimations_health.txt"
-	"file" "scripts/hudanimations_healthcross.txt"
+
+
+///////REMOVE // FROM THE ONE YOU WANT TO USE/////////
+
+	"file" "scripts/hudanimations_health.txt"
+//	"file" "scripts/hudanimations_healthcross.txt"
+
+
+
 	"file" "scripts/hudanimations_ammo.txt"
 //	"file" "scripts/hudanimations_ammoglitch.txt"
 //	"file" "scripts/hudanimations_ammoglitch_minmode.txt"
@@ -20,3 +27,5 @@ hudanimations_manifest
 	"file"		"scripts/hudanimations_chatfix.txt"
 	"file"		"scripts/hudanimations_tournament.txt"
 }
+
+

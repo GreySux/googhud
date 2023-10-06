@@ -164,8 +164,8 @@ Scheme
 		
 		"Health Numbers"									"255 255 255 255"
 
-		"Buffed Health"										"30 175 255 255"
-		"Buffed Health Pulse"								"0 255 100 255"
+		"Buffed Health"										"200 255 220 255"
+		"Buffed Health Pulse"								"155 255 170 255"
 		
 		"Low Health"										"255 50 50 255"
 		"Low Health Pulse"									"255 0 0 255"
@@ -181,11 +181,11 @@ Scheme
 		"Low Ammo No Clip"									"255 50 50 255"
 		"Low Ammo No Clip Pulse"							"255 0 0 255"
 
-		"Full Ubercharge"									"30 175 255 255"
-		"Full Ubercharge Pulse"								"80 150 255 255"
+		"Full Ubercharge"									"210 176 255 255"
+		"Full Ubercharge Pulse"								"175 115 255 255"
 
-		"Damage Numbers"									"255 255 255 255"
-		"Heal Numbers"										"0 255 0 255"
+		"Damage Numbers"									"150 150 150 150"
+		"Heal Numbers"										"155 255 170 255"
 		"Last Damage Done"									"255 255 255 255"
 		
 		///////////////////////////////////////////////////////////////////////////////
