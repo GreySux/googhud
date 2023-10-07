@@ -164,8 +164,8 @@ Scheme
 		
 		"Health Numbers"									"255 255 255 255"
 
-		"Buffed Health"										"200 255 220 255"
-		"Buffed Health Pulse"								"155 255 170 255"
+		"Buffed Health"										"135 255 179 255"
+		"Buffed Health Pulse"								"15 255 102 255"
 		
 		"Low Health"										"255 50 50 255"
 		"Low Health Pulse"									"255 0 0 255"
