@@ -85,7 +85,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -130,7 +130,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"QuestLogTitle"
-			"font"			"aBold16"
+			"font"			"GameFont16"
 			"labelText"		"#QuestLog_Title"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -288,7 +288,7 @@
 			"enabled"		"1"
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"White"
 		}
 
 		"BadgeMeterContainer"
@@ -305,7 +305,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"235 226 202 255" // tanlight
+			"bgcolor_override"	"255 255 255 255" // tanlight
 			"proportionaltoparent"	"1"
 
 			"BadgeProgressMeter"
@@ -346,7 +346,7 @@
 				"enabled"		"1"
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"White"
 			}
 		}
 
@@ -368,7 +368,7 @@
 			"enabled"		"1"
 			"wrap"			"0"
 			"proportionaltoparent"	"1"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"White"
 		}
 
 		"ContractMeterContainer"
@@ -385,7 +385,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"235 226 202 255" // tanlight
+			"bgcolor_override"	"255 255 255 255" // tanlight
 			"proportionaltoparent"	"1"
 
 			"ContractsCompletedProgressMeter"
@@ -426,7 +426,7 @@
 				"enabled"		"1"
 				"wrap"			"0"
 				"proportionaltoparent"	"1"
-				"fgcolor"		"TanLight"
+				"fgcolor"		"White"
 			}
 		}
 	}

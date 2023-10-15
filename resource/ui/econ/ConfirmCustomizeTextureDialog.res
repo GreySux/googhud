@@ -1036,7 +1036,7 @@
 				"wide"			"130"
 				"tall"			"25"
 				"labelText"		"#ToolCustomizeTextureOKButton"
-				"font"			"HudFontSmallBold"
+				"font"			"HudFontSmall"
 				"textAlignment"	"center"
 				"textinsety"	"2"
 				"default"		"1"

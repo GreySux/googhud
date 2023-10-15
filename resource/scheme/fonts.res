@@ -1449,6 +1449,50 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"QuestMap_Large"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"14"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		"QuestMap_Medium"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"10"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		"QuestMap_Small"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"8"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
+		"AdFont_AdText"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"11"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
 		"QuestObjectiveTracker_DescBlur"
 		{
 			"1"

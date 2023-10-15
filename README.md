@@ -2,7 +2,7 @@
 
 To install, press the green "Code" on github, then download ZIP. Once downloaded, open/unzip the file and drag the folder "googhud-main" into \Team Fortress 2\tf\custom
 
-Currently 0.7.4 release. This should be considered a beta version, although it is stable and you are unlikely to encounter any bugs.
+Currently 0.8 release. This should be considered a beta version, although it is stable and you are unlikely to encounter any bugs.
 
 Screenshots: https://imgur.com/a/960Ftgi
 
