@@ -302,7 +302,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"EscortItemImageAlert"	
 			"xpos"			"-4"
-			"ypos"			"39"
+			"ypos"			"41"
 			"zpos"			"0"
 			"wide"			"60"
 			"tall"			"30"
@@ -349,7 +349,7 @@
 			
 			"if_multiple_trains_top"
 			{
-				"ypos"			"46"
+				"ypos"			"55"
 			}	
 			
 			"if_multiple_trains_bottom"
