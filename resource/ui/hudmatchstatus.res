@@ -129,7 +129,7 @@
 		"wrap"			"0"
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
-		"fgcolor"		"black"
+		"fgcolor"		"Shadow"
 		"proportionaltoparent"	"1"
 
 	

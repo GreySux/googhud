@@ -7,6 +7,8 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValue				FgColor 	"Buffed Health Pulse" 				Accel 	0.125	0.175
 	
 	Animate	PlayerStatusHealthBonusImage 		Alpha		"255"								Linear	0.0	0.0
+	Animate HealthBG							Alpha 		"0"									Accel 	0.0 	0.0
+	Animate HealthBuff							Alpha 		"255"								Accel 	0.0 	0.0
 		
 	RunEvent HudHealthBonusPulseLoop			0.7
 	

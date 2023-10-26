@@ -1609,6 +1609,106 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"Symbols 8"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"8"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 10"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"10"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 12"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"12"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 13"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"13"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 14"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"14"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 16"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"16"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 18"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"18"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 25"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"25"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 26"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"26"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Symbols 50"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"48"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
 	}
 	
 
@@ -1668,6 +1768,11 @@ Scheme
 		{
 			"font" 		"resource/scheme/fontfiles/Emblems.ttf"
 			"name" 		"Emblems"
+		}
+		"89"
+		{
+			"font"		"resource/scheme/fontfiles/kbnhudicons.otf"
+			"name" 		"KBNHud Icons"
 		}
 	}
 }

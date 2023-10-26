@@ -89,7 +89,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"textAlignment"								"center"
-		"font"										"GameFont12Blur"
+		"font"										"GameFont12"
 		"fgcolor"									"Shadow"
 		"labeltext"									"%Health%"
 		

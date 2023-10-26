@@ -522,7 +522,7 @@ HudMatchStatus
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"c-90"
-		"ypos"					"-70"
+		"ypos"					"-120"
 		"wide"					"f0"
 		"tall"					"480"
 	}
@@ -635,5 +635,5 @@ HudMatchStatus
 		"wide"			"0"
 		"tall"			"0"
 	}
-
+}
 //SPEEDOMETER//
