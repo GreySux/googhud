@@ -387,9 +387,9 @@
 		"command"			"sv_cheats 1;r_skin 0"
 		
 		"fgcolor"					"White"
-		"defaultBgColor_override" "red"
-		"armedBgColor_override" "red"
-		"depressedBgColor_override" "red"
+		"defaultBgColor_override" "googred"
+		"armedBgColor_override" "googred"
+		"depressedBgColor_override" "googred"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -416,9 +416,9 @@
 		"command"			"sv_cheats 1;r_skin 1"
 		
 		"fgcolor"					"White"
-		"defaultBgColor_override" "Blue"
-		"armedBgColor_override" "Blue"
-		"depressedBgColor_override" "Blue"
+		"defaultBgColor_override" "googblue"
+		"armedBgColor_override" "googblue"
+		"depressedBgColor_override" "googblue"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

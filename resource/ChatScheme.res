@@ -132,7 +132,7 @@ Scheme
 		Slider.DisabledTextColor2						"30 30 30 255"
 		TextEntry.TextColor								"White"
 		TextEntry.BgColor								"ListBG"
-		TextEntry.CursorColor							"OffWhite"
+		TextEntry.CursorColor							"White"
 		TextEntry.DisabledTextColor						"DullWhite"
 		TextEntry.DisabledBgColor						"Blank"
 		TextEntry.SelectedTextColor						"White"
@@ -150,15 +150,15 @@ Scheme
 		MainMenu.MenuItemHeight							"16"
 		MainMenu.Inset									"32"
 		MainMenu.Backdrop								"0 0 0 156"
-		Console.TextColor								"OffWhite"
+		Console.TextColor								"White"
 		Console.DevTextColor							"White"
 		NewGame.TextColor								"White"
 		NewGame.FillColor								"0 0 0 255"
 		NewGame.SelectionColor							"Orange"
 		NewGame.DisabledColor							"128 128 128 196"
 		TFColors.ChatTextYellow							"255 255 255 255"
-		TFColors.ChatTextTeamBlue						"153 204 255 255"
-		TFColors.ChatTextTeamRed						"255 63 53 255"
+		TFColors.ChatTextTeamBlue						"googblue"
+		TFColors.ChatTextTeamRed						"googred"
 	}
 
 	BitmapFontFiles

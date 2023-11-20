@@ -24,7 +24,7 @@
 		"xpos"										"20"
 		"xpos_minmode"								"c-20"
 		"ypos"										"0"
-		"ypos_minmode"								"c64"
+		"ypos_minmode"								"0"
 		"zpos"										"2"
 		"wide"										"41"
 		"tall"										"15"

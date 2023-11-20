@@ -332,15 +332,15 @@ HudMatchStatus
 		
 		"TextFont"									"GameFont11"
 		
-		"TeamBlue"									"Blue"
-		"TeamRed"									"Red"
+		"TeamBlue"									"blue"
+		"TeamRed"									"red"
 		"IconColor"									"255 255 255 255"
 		"LocalPlayerColor"							"HUDBlack"
 
 		//change "0 0 0 0" to "TransparentLightBlack" to get the killfeed background back
 
 		"BaseBackgroundColor"						"0 0 0 0"
-		"LocalBackgroundColor"						"240 240 240 240"
+		"LocalBackgroundColor"						"255 255 255 255"
 	}
 	
 	HudSpellMenu
@@ -467,15 +467,14 @@ HudMatchStatus
 	
 	"HudMenuSpyDisguise"
 	{
-		"fieldName" 								"HudMenuSpyDisguise"
-		"visible" 									"1"
-		"enabled" 									"1"
-		"xpos"										"c-235"
-		"ypos"										"c-110"
-		"zpos"										"20"
-		"wide"										"f0"
-		"tall"										"f0"
-		"PaintBackgroundType"						"0"
+		"fieldName" 	"HudMenuSpyDisguise"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c101"
+		"ypos"			"c-102"
+		"wide"			"120"
+		"tall"			"187"
+		"PaintBackgroundType"	"0"
 	}
 	
 	"HudMenuTauntSelection"

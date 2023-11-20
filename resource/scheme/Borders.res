@@ -646,7 +646,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Red"
+			"color"					"googred"
 			
 			"image"					"replay/thumbnails/material_generic"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -670,7 +670,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Blue"
+			"color"					"googblue"
 			
 			"image"					"replay/thumbnails/material_generic"
 			"src_corner_height"		"24"				// pixels inside the image

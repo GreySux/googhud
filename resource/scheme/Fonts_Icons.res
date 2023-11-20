@@ -195,6 +195,72 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+
+		"Symbols 19"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"19"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 20"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"20"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 21"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"21"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 22"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"22"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 23"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"23"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"Symbols 24"
+		{
+			"1"
+			{
+				"name"			"KBNHud Icons"
+				"tall"			"24"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
 		"Symbols 25"
 		{
 			"1"

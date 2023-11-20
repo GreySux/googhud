@@ -17,7 +17,7 @@
 		"wrap"			"0"
 		"labelText"		"%capturetime%"
 		"textAlignment"	"center"
-		"fgcolor"		"Heath Numbers"
+		"fgcolor"		"White"
 		"bgcolor"		"Shadow"
 	}
 }

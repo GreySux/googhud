@@ -3,18 +3,18 @@
 	/////////////////////////Top Menu Buttons///////////////////////////
 	"QuestsButton"
 	{
-		"label" 									"d"
+		"label" 									"V"
 		"command" 									"questlog"
 	}
 	"WatchStreamButton"
 	{
-		"label" 									"q"
+		"label" 									"a"
 		"command" 									"watch_stream"
 	}
-	"MOTD_ShowButtonPanel"
+	"DemoUIButton"
 	{
 		"label" 									"h"
-		"command" 									"motd_show"
+		"command" 									"engine demoui"
 	}
 	
 	/////////////////////////Main Menu Buttons/////////////////////////
@@ -52,6 +52,11 @@
 	{
 		"label"										"console"
 		"command"									"engine showconsole"
+	}
+	"MOTD_ShowButtonPanel"
+	{
+		"label" 									"customization"
+		"command" 									"motd_show"
 	}
 	
 	/////////////////////////Ingame Only Buttons///////////////////////

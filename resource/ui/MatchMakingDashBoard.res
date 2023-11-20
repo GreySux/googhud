@@ -44,10 +44,10 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"BGPanel"
 			"xpos"			"-10"
-			"ypos"			"0"
+			"ypos"			"-5"
 			"zpos"			"-1"
 			"wide"			"2018"	//I see what you did there
-			"tall"			"28"
+			"tall"			"33"
 			"visible"		"1"
 			"paintbackground"	"0"
 			"border"			"MaterialBackground"
@@ -568,10 +568,10 @@
 			"defaultBgColor_override"	"Blank"
 
 			"defaultFgColor_override" "White"
-			"armedFgColor_override" "255 42 50 255"
+			"armedFgColor_override" "Red"
 
-			"image_drawcolor"	"255 255 255 255"
-			"image_armedcolor"	"255 42 50 255"
+			"image_drawcolor"	"White"
+			"image_armedcolor"	"Red"
 
 			"SubImage"
 			{
@@ -586,24 +586,24 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"DisconnectButton"
 			"xpos"			"rs1"
-			"ypos"			"0"
+			"ypos"			"-1"
 			"zpos"			"100"
 			"wide"			"17"
-			"tall"			"27"
+			"tall"			"30"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"CustomIcons14"
+			"font"			"Symbols 22"
 			"textAlignment"	"west"
 			"textinsetx"	"0"
-			"textinsety"	"5"
+			"textinsety"	"0"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"Command"		"quit"
 			"proportionaltoparent"	"1"
-			"labeltext"		"W"
+			"labeltext"		"1"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
@@ -644,7 +644,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"CustomIcons14"
+			"font"			"Symbols 18"
 			"textAlignment"	"west"
 			"textinsetx"	"0"
 			"textinsety"	"5"
@@ -669,7 +669,7 @@
 			"armedFgColor_override" "Main Theme"
 
 			"image_drawcolor"	"255 255 255 255"
-			"image_armedcolor"	"255 42 50 255"
+			"image_armedcolor"	"Green"
 
 			"SubImage"
 			{
@@ -679,7 +679,7 @@
 			}
 		}
 		
-		"FindAGameButton"
+		"FindAGameButton" 	//for some reason the ypos is very glitchy if you use text instead of an image
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton"
@@ -735,88 +735,6 @@
 				"image"			"glyph_multiplayer"
 				"drawcolor_override" "White"
 			}
-		}
-		"DemoUIButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"DemoUIButton"
-			"xpos"			"rs1-34"
-			"ypos"			"0"
-			"zpos"			"100"
-			"wide"			"17"
-			"tall"			"23"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons14"
-			"textAlignment"	"west"
-			"textinsetx"	"0"
-			"textinsety"	"9"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"proportionaltoparent"	"1"
-			"labeltext"		"F"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-			"actionsignallevel"	"3"
-			"RoundedCorners"	"0"
-			"command" 		"engine demoui"
-
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"armedBgColor_override"		"Blank"
-			"defaultBgColor_override"	"Blank"
-
-			"defaultFgColor_override" "White"
-			"armedFgColor_override" "153 51 255 255"
-
-			"image_drawcolor"	"255 255 255 255"
-			"image_armedcolor"	"153 51 255 255"
-
-		}
-		"ReloadHUDButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"ReloadHUDButton"
-			"xpos"			"rs1-53"
-			"ypos"			"0"
-			"zpos"			"100"
-			"wide"			"17"
-			"tall"			"23"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons14"
-			"textAlignment"	"west"
-			"textinsetx"	"0"
-			"textinsety"	"9"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"Command"		"engine hud_reloadscheme; record fix; stop"
-			"proportionaltoparent"	"1"
-			"labeltext"		"Z"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-			"actionsignallevel"	"3"
-			"RoundedCorners"	"0"
-
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-
-			"armedBgColor_override"		"Blank"
-			"defaultBgColor_override"	"Blank"
-
-			"defaultFgColor_override" "White"
-			"armedFgColor_override" "255 128 0 255"
-
-			"image_drawcolor"	"255 255 255 255"
-			"image_armedcolor"	"255 128 0 255"
-
 		}
 
 	}

@@ -254,7 +254,7 @@
 				"HealthDeathWarning"		"0.49"
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
-				"TextColor"					"HudOffWhite"
+				"TextColor"					"White"
 				
 				if_competitive
 				{
@@ -522,7 +522,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/tournament_panel_blu"
+		"image"			"replay\thumbnails\bg_blue"
 		"proportionaltoparent"	"1"
 
 		"src_corner_height"	"15"				// pixels inside the image
@@ -634,7 +634,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/tournament_panel_red"
+		"image"			"replay\thumbnails\bg_red"
 
 		"src_corner_height"	"15"				// pixels inside the image
 		"src_corner_width"	"15"
@@ -1012,7 +1012,7 @@
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
-			"fgcolor"		"vWhite255"
+			"fgcolor"		"White"
 			"font"			"GameFont24"
 		}
 
@@ -1040,7 +1040,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"vBlack255"
+		"fgcolor"		"Black"
 		"proportionaltoparent"	"1"
 
 		if_competitive

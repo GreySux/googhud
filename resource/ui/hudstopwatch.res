@@ -4,8 +4,8 @@
 	{
 		"ControlName"			"EditablePanel"
 		"fieldName"				"HudStopWatchBG"
-		"xpos"					"0"
-		"ypos"					"0"
+		"xpos"					"cs1"
+		"ypos"					"r22"
 		"zpos"					"0"
 		"wide"					"110"
 		"tall"					"25"
@@ -22,10 +22,18 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"1"
-		"wide"					"120"
+		"wide"					"110"
 		"tall"					"26"
 		"visible"				"0"
 		"enabled"				"1"
+
+		"TimePanelBG"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"TimePanelBG"
+			"tall"			"f0"
+			"visible"		"0"
+		}
 		
 		"pin_to_sibling" 		"HudStopWatchBG"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"

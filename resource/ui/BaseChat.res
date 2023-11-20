@@ -7,7 +7,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"2"
-		"ypos"					"20"
+		"ypos"					"30"
 		"wide"					"200"
 		"tall"					"92"
 		"fgcolor"				"White"

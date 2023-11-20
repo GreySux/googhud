@@ -8,6 +8,49 @@
 		}
 	}
 
+"BlueTimerBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"BlueTimerBG"
+		"xpos"				"c-32"
+		"ypos"				"0"
+		"zpos"			"1"
+		"wide"			"32"
+		"tall"			"20"
+		"alpha"			"255"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"fillcolor"		"googblue200"
+		"visible"		"1"
+		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+	"RedTimerBG"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"RedTimerBG"
+		"xpos"				"c"
+		"ypos"				"0"
+		"zpos"			"1"
+		"wide"			"32"
+		"tall"			"20"
+		"alpha"			"255"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"fillcolor"		"googred200"
+		"visible"		"1"
+		"enabled"		"1"
+
+		if_mvm
+		{
+			"visible"		"0"
+		}
+}
+
 	"BlueTimer"
 	{
 		"ControlName"		"CTFHudTimeStatus"
@@ -30,11 +73,11 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"361"
-			"ypos"					"-14"
-			"delta_item_x"			"10"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"50"
+			"xpos"					"c-66"
+			"ypos"					"-34"
+			"delta_item_x"			"9999"
+			"delta_item_start_y"	"50"
+			"delta_item_end_y"		"70"
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
@@ -62,7 +105,7 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"25"
-				"ypos"			"8"
+				"ypos"			"28"
 				"wide"			"50"
 				"tall"			"31"
 				"font"			"GameFont16"
@@ -93,8 +136,8 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"393"
-			"ypos"					"-14"
+			"xpos"					"c-34"
+			"ypos"					"-34"
 			"delta_item_x"			"22"
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
@@ -125,7 +168,7 @@
 				"proportionaltoparent"	"1"
 
 				"xpos"			"25"
-				"ypos"			"8"
+				"ypos"			"28"
 				"wide"			"50"
 				"tall"			"31"
 				"font"			"GameFont16"

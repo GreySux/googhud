@@ -274,7 +274,7 @@
 		"labelText"		"%rank_possibility%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"White"
 	}
 
 	"RankUpShadowLabel"
@@ -339,7 +339,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"HudFontMediumSmall"
 			"fgcolor"		"white"
-			"xpos"			"15"
+			"xpos"			"14"
 			"ypos"			"14"
 			"zpos"			"3"
 			"wide"			"100"
@@ -353,7 +353,7 @@
 			{
 				"proportionaltoparent"	"1"
 
-				"xpos"			"15"
+				"xpos"			"14"
 				"ypos"			"14"
 				"wide"			"100"
 				"tall"			"20"
@@ -379,12 +379,12 @@
 		"12v12_gap"									"0"
             //blue 
 		"team1_grow_dir" 							"west"
-		"team1_base_x"								"c-36" //c-36
+		"team1_base_x"								"c-37"
 		"team1_max_expand"							"225"
 
            //red 
 		"team2_grow_dir" 							"east"
-		"team2_base_x"								"c37" //c37
+		"team2_base_x"								"c37"
 		"team2_max_expand"							"225"
 
 		"playerpanels_kv"
@@ -395,8 +395,8 @@
 			"zpos"									"1"
 			"proportionaltoparent"					"1"
 
-			"color_portrait_bg_red"					"Red"
-			"color_portrait_bg_blue"				"Blue"
+			"color_portrait_bg_red"					"googred200"
+			"color_portrait_bg_blue"				"googblue200"
 			
 			"color_portrait_bg_red_dead"			"79 79 79 226"
 			"color_portrait_bg_blue_dead"			"79 79 79 226"
@@ -426,7 +426,7 @@
 				"proportionaltoparent"                       "1"
 				"PaintBackground"                            "1"
 				"PaintBackgroundType"                        "2"
-				"bgcolor_override"	"0 0 0 255"
+				"bgcolor_override"	"0 0 0 0"
 			}
 			
 			"classimagebg"
@@ -458,7 +458,7 @@
 				"visible"							"1"
 				"textinsetx"						"1"
 				"labelText"							"%playername%"
-				"font"								"HudFont24"
+				"font"								"HudFont20"
 				"textAlignment"						"center"
 				"bgcolor_override"					"33 33 33 196"
 				"proportionaltoparent"				"1"
@@ -542,7 +542,7 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"RespawnTime"
-				"font"								"HudFont"
+				"font"								"HudFontSmall"
 				"xpos"								"0"
 				"ypos"								"0"
 				"zpos"								"10"

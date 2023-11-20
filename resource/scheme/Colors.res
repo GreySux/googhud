@@ -124,8 +124,8 @@ Scheme
 		"vScoreboardAssistsColor"		"255 225 100 255"
 		"vScoreboardDamageColor"		"77 157 224 255"
 
-		"vMatchStatusBGRed"				"225 85 85 255"
-		"vMatchStatusBGBlue"			"77 157 224 255"
+		"vMatchStatusBGRed"				"179 59 60 255"
+		"vMatchStatusBGBlue"			"88 121 139 255"
 		"vMatchStatusBGRedDead"			"0 0 0 200"
 		"vMatchStatusBGBlueDead"		"0 0 0 200"
 		"vMatchStatusHPHigh"			"59 178 115 255"
@@ -145,8 +145,25 @@ Scheme
 		"vTournamentHealthLow"			"0 0 0 150"
 		"vTournamentHealthOverheal"		"89 195 195 150"
 
+
+//googhud custom colors
 		
-		
+		"googred" 				"255 42 50 255"
+		"googred200" 				"255 42 50 200"
+		"googred150" 				"255 42 50 150"
+		"googblue"				"0 170 255 255"
+		"googblue200"				"0 170 255 200"
+		"googblue150"				"0 170 255 150"
+
+
+		//"googred" 				"179 59 60 255"
+		//"googred200" 				"179 59 60 200"
+		//"googred150" 				"179 59 60 150"
+		//"googblue"				"88 121 139 255"
+		//"googblue200"				"88 121 139 200"
+		//"googblue150"				"88 121 139 150"
+
+
 		
 		"White"												"255 255 255 255"
 		"Red"												"255 42 50 255"
@@ -224,11 +241,11 @@ Scheme
 		
 		"FooterBGBlack"										"0 0 0 255"
 		
-		"HUDBlueTeam"										"0 170 255 255"
-		"HUDRedTeam"										"255 42 50 255"
+		"HUDBlueTeam"										"googblue"
+		"HUDRedTeam"										"googred"
 		"HUDSpectator"										"255 255 255 255"
-		"HUDBlueTeamSolid"									"0 170 255 255"
-		"HUDRedTeamSolid"									"255 42 50 255"
+		"HUDBlueTeamSolid"									"88 121 139 255"
+		"HUDRedTeamSolid"									"179 59 60 255"
 		"HUDDeathWarning"									"255 42 50 255"
 		"HudWhite"											"255 255 255 255"
 		"HudOffWhite"										"255 255 255 255"
@@ -575,8 +592,8 @@ Scheme
 
 		"ViewportBG"										"Blank"
 		"TeamSpec"											"White"
-		"TeamRed"											"Red"
-		"TeamBlue"											"Blue"
+		"TeamRed"											"googred"
+		"TeamBlue"											"googblue"
 
 		"MapDescriptionText"								"Gray"
 		"HudIcon_Green"										"0 160 0 255"

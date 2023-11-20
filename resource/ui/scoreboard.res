@@ -40,6 +40,7 @@
 		"killstreak_width"	"15"
 		"killstreak_image_width" "15"
 	}
+
 	"BlueScoreBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -56,7 +57,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"70 130 180 153"
+		"fillcolor"		"googblue150"
 		"scaleImage"		"1"
 		
 		if_mvm
@@ -80,7 +81,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"205 50 50 153"
+		"fillcolor"		"googred150"
 		"scaleImage"		"1"
 		
 		if_mvm
@@ -254,7 +255,7 @@
 		"textAlignment"		"east"
 		"xpos"			"2"
 		"ypos"			"-7"
-		"ypos_minmode"	"0"
+		"ypos_minmode"		"-7"
 		"wide"			"100"
 		"tall"			"29"
 		"autoResize"		"0"
@@ -360,7 +361,7 @@
 		"xpos"			"0"
 		"xpos_minmode"	"0"
 		"ypos"			"-7"
-		"ypos_minmode"	"176"
+		"ypos_minmode"	"-7"
 		"wide"			"130"
 		"tall"			"29"
 		"autoResize"	"0"
@@ -448,7 +449,7 @@
 		"tabPosition"	"0"
 		"autoresize"	"3"
 		"linespacing"	"14"
-		"fgcolor"		"blue"
+		"fgcolor"		"googblue"
 		
 		if_mvm
 		{
@@ -475,7 +476,7 @@
 		"autoresize"	"3"
 		"maxchars" "5"
 		"linespacing"	"14"
-		"textcolor"		"red"
+		"textcolor"		"googred"
 		
  		if_mvm
  		{

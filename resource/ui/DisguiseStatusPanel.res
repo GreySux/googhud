@@ -33,20 +33,21 @@
 	{
 		"ControlName"								"CTFImagePanel"
 		"fieldName"									"DisguiseStatusBG"
-		"xpos"										"10"
-		"ypos"										"0"
+		"xpos"										"3"
+		"ypos"										"1"
 		"zpos"										"-1"
-		"wide"										"120"
-		"tall"	 									"26"
+		"wide"										"130"
+		"tall"	 									"22"
 		"autoResize"								"0"
 		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
-		"image"										"../hud/color_panel_brown"
+		"image"							"../hud/color_panel_brown"
 		"scaleImage"								"1"
-		"teambg_1"									"replay/thumbnails/Material_Transparent"
-		"teambg_2"									"replay/thumbnails/Material_Transparent_Red"
-		"teambg_3"									"replay/thumbnails/Material_Transparent_Blue"
+		"alpha" 								"200"		
+		"teambg_1"					"replay/thumbnails/bg_blank"
+		"teambg_2"					"replay/thumbnails/bg_red"
+		"teambg_3"					"replay/thumbnails/bg_blue"
 		
 		"src_corner_height"							"24"
 		"src_corner_width"							"24"
@@ -55,9 +56,9 @@
 		
 		if_mvm
 		{
-			"teambg_1"								"replay/thumbnails/Material_Transparent"
-			"teambg_2"								"replay/thumbnails/Material_Red"
-			"teambg_3"								"replay/thumbnails/Material_Blue"
+			"teambg_1"				"replay/thumbnails/bg_blank"
+		"teambg_2"					"replay/thumbnails/bg_red"
+		"teambg_3"					"replay/thumbnails/bg_blue"
 		}
 	}
 
@@ -67,7 +68,7 @@
 		"fieldName"									"DisguiseNameLabel"
 		"font"										"GameFont12"
 		"fgcolor_override"   						"White"
-		"xpos"										"45"
+		"xpos"										"38"
 		"ypos"										"1"
 		"zpos"										"1"
 		"wide"										"92"
@@ -88,7 +89,7 @@
 		"fieldName"									"WeaponNameLabel"
 		"font"										"GameFont11"
 		"fgcolor_override"   						"White"
-		"xpos"										"45"
+		"xpos"										"38"
 		"ypos"										"12"
 		"zpos"										"1"
 		"wide"										"92"
@@ -107,8 +108,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"SpectatorGUIHealth"
-		"xpos"										"12"
-		"ypos"										"-5"
+		"xpos"										"3"
+		"ypos"										"-7"
 		"ypos_minmode"								"2"
 		"wide"										"50"
 		"tall"										"50"
@@ -118,6 +119,6 @@
 		"HealthDeathWarning"						"0.49"
 		"TFFont"									"HudFontSmall"
 		"HealthDeathWarningColor"					"HUDDeathWarning"
-		"TextColor"									"HudOffWhite"
+		"TextColor"									"White"
 	}
 }

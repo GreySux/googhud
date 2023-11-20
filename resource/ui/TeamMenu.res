@@ -87,8 +87,8 @@
 		"associated_model"				"bluedoor"
 		"hover"							".1"
 		"font"							"GameFont10"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 
 	"teambutton1"
@@ -115,8 +115,8 @@
 		"associated_model"				"reddoor"	
 		"hover"							".1"
 		"font"							"GameFont10"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 
 	"teambutton2"
@@ -141,8 +141,8 @@
 		"command"						"jointeam auto"
 		"associated_model"				"autodoor"
 		"font"							"GameFont10"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 	"AutoLabel"
 	{
@@ -166,8 +166,8 @@
 		"command"						"jointeam auto"
 		"associated_model"				"autodoor"
 		"font"							"GameFont20"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 	
 	"teambutton3"
@@ -192,8 +192,8 @@
 		"command"						"jointeam spectate"
 		"associated_model"				"spectate"	
 		"font"							"GameFont10"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 	"SpectateLabel"
 	{
@@ -217,8 +217,8 @@
 		"command"						"jointeam spectate"
 		"associated_model"				"spectate"	
 		"font"							"GameFont20"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 	"CancelButton" [$WIN32] 
 	{
@@ -239,8 +239,8 @@
 		"Command"						"cancelmenu"
 		"font"							"GameFont12"
 		"paintbackground"				"0"
-		"armedfgcolor_override"			"bh_orange"
-		"defaultfgcolor_override"		"bh_white"
+		"armedfgcolor_override"			"orange"
+		"defaultfgcolor_override"		"white"
 	}
 	
 	"TeamMenuSelect"
@@ -261,7 +261,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"GameFont24"
-		"fgcolor"		"HudOffWhite"
+		"fgcolor"		"White"
 	}
 	
 	"TeamMenuAuto"
@@ -378,7 +378,7 @@
 		"dulltext"				"0"
 		"brighttext"			"1"
 		"font"					"GameFont20"
-		"fgcolor_override"		"bh_white"
+		"fgcolor_override"		"white"
 	}		
 	
 	"RedCount"
@@ -399,7 +399,7 @@
 		"dulltext"				"0"
 		"brighttext"			"1"
 		"font"					"GameFont20"
-		"fgcolor_override"		"bh_white"
+		"fgcolor_override"		"white"
 	}	
 	
 	"bluedoor"
@@ -666,7 +666,7 @@
 		"button_pin_right_lodef"	"55"
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
-		"fgcolor"			"HudOffWhite" 	
+		"fgcolor"			"White" 	
 		
 		"button"
 		{
@@ -708,7 +708,7 @@
 		"dulltext"		"0"
 		"font"			"CapPlayerFont"
 		"brighttext"	"0"
-		"fgcolor"		"HudOffWhite"
+		"fgcolor"		"White"
 		"centerwrap"	"1"
 	}
 	
@@ -752,7 +752,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"CapPlayerFont"
-		"fgcolor"		"HudOffWhite"
+		"fgcolor"		"White"
 		"centerwrap"	"1"
 	}
 	
@@ -805,7 +805,8 @@
 		"pinCorner"				"0"
 		"visible" 				"1"
 		"enabled" 				"1"
-		"fillcolor" 			"189 59 59 50"
+		"fillcolor" 			"googred"
+		"alpha"				"50"
 		"draw_corner_width"		"5"
 		"draw_corner_height"	"5"
 	}
@@ -822,7 +823,8 @@
 		"pinCorner"				"0"
 		"visible" 				"1"
 		"enabled" 				"1"
-		"fillcolor" 			"91 122 140 50"
+		"fillcolor" 			"googblue"
+		"alpha"					"50"
 		"draw_corner_width"		"5"
 		"draw_corner_height"	"5"
 	}

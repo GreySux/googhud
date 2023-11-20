@@ -9,9 +9,9 @@
 		"zpos"			"2"
 		"wide"			"63"
 		"tall"			"19"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"../hud/objectives_timepanel_blue_bg"	
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"../hud/objectives_timepanel_blue_bg"		
 		"scaleImage"		"1"	
 
 		"src_corner_height"		"23"
@@ -21,8 +21,47 @@
 
 		if_match
 		{
-			"visible"	"1"
+			"visible"	"0"
 		}
+	}
+"GoogTimerBG2"
+	{
+		"ControlName"		"CTFImagePanel"
+		"fieldName"		"GoogTimerBG2"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"			"1"
+		"wide"			"63"
+		"tall"			"20"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			"replay/thumbnails/bg_black"	
+		 "teambg_1"        "replay/thumbnails/bg_black"
+  		 "teambg_2"        "replay/thumbnails/bg_red"
+       		 "teambg_3"        "replay/thumbnails/bg_blue"	
+		"alpha" 		"255"
+		"scaleImage"		"1"	
+		"pin_to_sibling"	"TimePanelBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+	}
+	"GoogTimerBG"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"		"GoogTimerBG"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"			"1"
+		"wide"			"63"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"bgcolor_override"  	"Shadow"
+		"visible"		"1"
+		"enabled"		"1"
+		"pin_to_sibling"	"TimePanelBG"
+		"pin_corner_to_sibling"	"PIN_CENTER_BOTTOM"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
 	}
 
 	"TimePanelProgressBar"
@@ -105,7 +144,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"OvertimeLabel"
 		"xpos"			"16"
-		"ypos"			"39"
+		"ypos"			"59"
 		"zpos"			"5"
 		"wide"			"78"
 		"tall"			"19"
@@ -122,7 +161,7 @@
 		{
 			"proportionaltoparent"	"1"
 			"xpos"					"0"
-			"ypos"					"39"
+			"ypos"					"59"
 			"wide"					"p1"
 			"font"					"HudFontSmall"
 		}
