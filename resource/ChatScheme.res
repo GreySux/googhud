@@ -178,6 +178,7 @@ Scheme
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
 				"yres"			"480 599"
+				"antialias"		"1"
 			}
 
 			"2"
@@ -187,6 +188,7 @@ Scheme
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
 				"yres"			"600 767"
+				"antialias"		"1"
 			}
 
 			"3"
@@ -319,45 +321,50 @@ Scheme
 			{
 				"name"			"Inter Medium"
 				"tall"			"16"
-				"weight"		"600"
+				"weight"		"300"
 				"yres"			"480 599"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 
 			"2"
 			{
 				"name"			"Inter Medium"
 				"tall"			"18"
-				"weight"		"600"
+				"weight"		"300"
 				"yres"			"600 767"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 
 			"3"
 			{
 				"name"			"Inter Medium"
 				"tall"			"19"
-				"weight"		"600"
+				"weight"		"300"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 
 			"4"
 			{
 				"name"			"Inter Medium"
 				"tall"			"21"
-				"weight"		"600"
+				"weight"		"300"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 
 			"5"
 			{
 				"name"			"Inter Medium"
 				"tall"			"26"
-				"weight"		"600"
+				"weight"		"300"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 		}
 
@@ -823,7 +830,10 @@ Scheme
 
 	CustomFontFiles
 	{
-		"1"	"resource/HALFLIFE2.ttf"
-		"2"	"resource/HL2EP2.ttf"		
+		"1" 
+		{
+			"font" 		"resource/scheme/fontfiles/Inter-Medium.ttf"
+			"name" 		"Inter Medium"
+		}	
 	}
 }

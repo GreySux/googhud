@@ -1,5 +1,5 @@
+#base "../customizations/crosshair.res"
 #base "HudLayout_Base.res"
-#base "../resource/crosshairs/crosshair.res"
 
 "Resource/HudLayout.res"
 {	
@@ -166,9 +166,9 @@ HudMatchStatus
 	{
 		"fieldName"									"CHealthAccountPanel"
 		"xpos"										"c-153"
-		"xpos_minmode"								"c-153"
+		"xpos_minmode"								"c-96"
 		"ypos"										"r110"
-		"ypos_minmode"								"r110"
+		"ypos_minmode"								"r160"
 		"wide"										"f0"
 		"tall"  									"24"
 		"visible" 									"1"
@@ -428,41 +428,38 @@ HudMatchStatus
 	
 	"HudMenuEngyBuild"
 	{
-		"fieldName" 								"HudMenuEngyBuild"
-		"visible" 									"1"
-		"enabled" 									"1"
-		"xpos"										"0"
-		"ypos"										"c-92"
-		"zpos"										"20"
-		"wide"										"f0"
-		"tall"										"f0"
-		"PaintBackgroundType"						"0"
+		"fieldName" 	"HudMenuEngyBuild"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c-102"
+		"wide"			"120"
+		"tall"			"187"
+		"PaintBackgroundType"	"0"
 	}
 	
 	"HudMenuEngyDestroy"
 	{
-		"fieldName" 								"HudMenuEngyDestroy"
-		"visible" 									"1"
-		"enabled" 									"1"
-		"xpos"										"0"
-		"ypos"										"c-92"
-		"zpos"										"20"
-		"wide"										"f0"
-		"tall"										"f0"
-		"PaintBackgroundType"						"0"
+		"fieldName" 	"HudMenuEngyDestroy"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c-102"
+		"wide"			"120"
+		"tall"			"187"
+		"PaintBackgroundType"	"0"
 	}
 
 	"HudEurekaEffectTeleportMenu"
 	{
-		"fieldName" 								"HudEurekaEffectTeleportMenu"
-		"visible" 									"1"
-		"enabled" 									"1"
-		"xpos"										"0"
-		"ypos"										"c-92"
-		"zpos"										"20"
-		"wide"										"f0"
-		"tall"										"f0"
-		"PaintBackgroundType"						"0"
+		"fieldName" 	"HudEurekaEffectTeleportMenu"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c100"
+		"ypos"			"c-102"
+		"wide"			"120"
+		"tall"			"106"
+		"PaintBackgroundType"	"0"
 	}
 	
 	"HudMenuSpyDisguise"
@@ -634,5 +631,71 @@ HudMatchStatus
 		"wide"			"0"
 		"tall"			"0"
 	}
+
+//SPEEDOMETER SECTION, BELOW HERE IS WHERE YOU CHANGE THOSE 0 AND 1 VALUES FOR VISIBLE AND ENABLED//
+
+	"speed1"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "speed1"
+		"visible" "0" //HERE
+		"enabled" "0" //HERE
+		"xpos" "c16"
+		"ypos" "c160"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "16"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/numbers1"
+		"scaleimage" "1"
+	}
+	"speed2"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "numbers1"
+		"visible" "0" //HERE
+		"enabled" "0" //HERE
+		"xpos" "c0"
+		"ypos" "c160"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "16"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/numbers2"
+		"scaleimage" "1"
+	}
+	"speed3"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "numbers1"
+		"visible" "0" //HERE
+		"enabled" "0" //HERE
+		"xpos" "c-16"
+		"ypos" "c160"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "16"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/numbers3"
+		"scaleimage" "1"
+	}
+	"speed4"
+	{
+		"controlName" "CTFImagePanel"
+		"fieldName" "numbers1"
+		"visible" "0" //HERE
+		"enabled" "0" //HERE
+		"xpos" "c-32"
+		"ypos" "c160"
+		"zpos" "0"
+		"wide" "16"
+		"tall" "16"
+
+		"alpha" "255"
+		"image" "replay/thumbnails/numbers4"
+		"scaleimage" "1"
+	}
 }
-//SPEEDOMETER//

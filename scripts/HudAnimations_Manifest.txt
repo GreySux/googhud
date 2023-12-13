@@ -3,11 +3,10 @@ hudanimations_manifest
 
 
 
-///////REMOVE // FROM THE ONE YOU WANT TO USE/////////
+///////REMOVE // FROM THE ONE YOU WANT TO USE, ADD // TO THE ONES YOU ARENT USING/////////
 
 	"file" "scripts/hudanimations_health.txt"
-//	"file" "scripts/hudanimations_healthcross.txt"
-
+//	"file" "scripts/hudanimations_healthbox.txt"
 
 
 ///////ADD OR REMOVE // AS NEEDED/////////

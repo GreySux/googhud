@@ -1,0 +1,43 @@
+contact greysucks on discord if you need any help!
+
+
+*****THE BASICS******
+REMOVE _  AT END OF FOLDER NAME FOR OPTION YOU WANT TO USE, ADD _ FOR OPTIONS YOU DONT WANT
+
+ie. if I wanted to use 2dplayermodel and health cross
+"2dplayermodel_" --> "2dplayermodel"
+
+
+**DEFAULT OPTIONS ARE AS FOLLOWS**
+health - basic numbers with color animations, no backgrounds, broeselcross, or icons
+scoreboard - 12v12, 6v6 wih minmode enabled (customization options enable respective styles for both modes)
+disguise menu - not concise (must relaunch game for customization options to take effect)
+playermodel - 3d
+chat - top left
+streamer mode - off
+crosshair - off
+
+
+**HEALTH**
+if you enable any health customization options, you must also go to scripts/hudanimations_manifest and follow the instructions there. broeselcross is compatable with other health options. cross teambg is an variation of broeselcross.
+
+
+**CROSSHAIR & COLORS**
+In the customizations folder (where this text document is located) open the .res file you want to edit with notepad (or notepad++) and follow the instructions in there.
+
+
+**SPEEDOMETER**
+for some reason the speedometer does not want to work via a customization file. if you would like to enable it:
+
+-go to scripts/hudlayout.res 
+-scroll all the way down to the speedometer section
+-look for lines with "visible" or "enabled" and change their values from "0" to "1"
+-woohoo you did it im proud of you
+
+
+**FONTS**
+unfortunately you'll have to do this manually for now, although i will impliment this in the future. anyways, please use the following guide: https://github.com/rbjaxter/budhud/wiki/Adding---Replacing-Custom-Fonts
+
+
+**PLAYERMODEL**
+this affects the player model used in game located at the bottom left of your screen. using the 2d version enables the default class image portrait, but this does require "cl_hud_playerclass_use_playermodel 0" in console.

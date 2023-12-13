@@ -1577,6 +1577,63 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+"CloseCaption_Normal"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"24"
+				"tall_hidef"	"32"
+				"weight"	"500"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Italic"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"24"
+				"tall_hidef"	"32"
+				"weight"	"500"
+				"italic"	"1"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Bold"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"24"
+				"tall_hidef"	"32"
+				"weight"	"500"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_BoldItalic"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"24"
+				"tall_hidef"	"32"
+				"weight"	"500"
+				"italic"	"1"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
+		"CloseCaption_Small"
+		{
+			"1"
+			{
+				"name"		"Inter Medium"
+				"tall"		"16"
+				"tall_hidef"	"24"
+				"weight"	"500"
+				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
+			}
+		}
 		"Class Symbols 40"
 		{
 			"1"
@@ -1774,17 +1831,42 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+				ModPics18	//close X
+		{
+			"1"
+			{
+				"name"										"ModernPictograms"
+				"tall"										"18"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		ModPics46
+		{
+			"1"
+			{
+				"name"										"ModernPictograms"
+				"tall"										"46"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		Emblems46
+		{
+			"1"
+			{
+				"name"										"Emblems"
+				"tall"										"46"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
 	}
 	
 
 	
 	CustomFontFiles
 	{
-		"7" 
-		{
-			"font" 		"resource/scheme/fontfiles/Renogare-Regular.otf"
-			"name" 		"Renogare"
-		}
 		
 		"8" 
 		{
@@ -1798,33 +1880,21 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
-		}
+		"1" 
+		{
+			"font" 		"resource/scheme/fontfiles/Inter-Medium.ttf"
+			"name" 		"Inter Medium"
 		"10" 
 		{
-			"font" 		"resource/scheme/fontfiles/SourceSansPro-Black.otf"
-			"name" 		"Source Sans Pro Black"
-		}
-		"11" 
-		{
-			"font" 		"resource/scheme/fontfiles/Nexa Numbers.otf"
-			"name" 		"Nexa Numbers"
-		}
-		"12" 
-		{
-			"font" 		"resource/scheme/fontfiles/Nexa Respawn.otf"
-			"name" 		"Nexa Respawn"
+			"font" 		"resource/scheme/fontfiles/ModernPics.otf"
+			"name" 		"ModernPictograms"
 		}
 		"13" 
 		{
 			"font" 		"resource/scheme/fontfiles/Blocks.ttf"
 			"name" 		"Blocks"
 		}
-		"14" 
-		{
-			"font" 		"resource/scheme/fontfiles/Inter-Medium.ttf"
-			"name" 		"Inter Medium"
-		}
-		"15"
+		"14"
 		{
 			"font"		"resource/scheme/fontfiles/TF2 Class Icons.otf"
 			"name" 		"TF2 Class Icons"

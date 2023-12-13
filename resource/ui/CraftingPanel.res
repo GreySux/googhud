@@ -179,7 +179,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"LightBG"
+			"fgcolor"		"Main Theme"
 			"wrap"			"1"
 			"AllCaps"		"1"
 		}

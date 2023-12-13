@@ -2,78 +2,57 @@
 {
 	"ItemNameLabel"
 	{	
-		"ControlName"								"CExLabel"
-		"fieldName"									"ItemNameLabel"
-		"font"										"SpectatorKeyHints"
-		"xpos"										"30"
-		"ypos"										"20"
-		"zpos"										"1"
-		"wide"										"84"
-		"tall"										"15"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"#TF_Object_dispenser"
-		"textAlignment"								"Left"
-		"dulltext"									"0"
-		"brighttext"								"0"
+		"ControlName"	"CExLabel"
+		"fieldName"		"ItemNameLabel"
+		"font"			"GameFont10"
+		"fgcolor"		"127 127 127 255"
+		"xpos"			"65"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"55"
+		"tall"			"34"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"#TF_Object_dispenser"
+		"textAlignment"	"west"
 	}
-	
-	"NotBuiltLabel"
-	{	
-		"ControlName"								"CExLabel"
-		"fieldName"									"NotBuiltLabel"
-		"font"										"SpectatorKeyHints"
-		"xpos"										"10"
-		"ypos"										"48"
-		"zpos"										"2"
-		"wide"										"80"
-		"tall"										"18"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"#TF_NotBuilt"
-		"textAlignment"								"Center"
-		"dulltext"									"0"
-		"brighttext"								"0"
-	}	
-			
-	"NumberLabel"
-	{	
-		"ControlName"								"CExLabel"
-		"fieldName"									"NumberLabel"
-		"font"										"HudFontSmall"
-		"fgcolor"									"White"
-		"xpos"										"0"
-		"ypos"										"90"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"18"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"1"
-		"textAlignment"								"Center"
-		"dulltext"									"1"
-		"brighttext"								"0"
-	}
-	
-	
-	
-	
-	
-	//////////////////////////////////REMOVED STUFF//////////////////////////////////
-	
 	"ItemBackground"	
 	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"ItemBackground"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
+		"ControlName"	"CIconPanel"
+		"fieldName"		"ItemBackground"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
+	"NumberBg"	
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"NumberBg"
+		"xpos"			"9999"
+		"ypos"			"999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"NumberLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"NumberLabel"
+		"font"			"GameFont18"
+		"fgcolor"		"127 127 127 255"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"25"
+		"tall"			"34"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"2"
+		"textAlignment"	"center"
 	}
 }

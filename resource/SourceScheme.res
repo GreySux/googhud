@@ -45,13 +45,12 @@ Scheme
 	    "QuickListBGSelected"               				"131 121 104 150"
 	    
 	    "Blank"												"0 0 0 0"
-
-		"ControlBG"											"76 88 68 200"		// background color of controls
-		"ControlDarkBG"										"90 106 80 200"		// darker background color; used for background of scrollbars
-		"WindowBG"											"62 70 55 200"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"										"90 84 75 200"		// background color of any selected text or menu item
-		"SelectionBG2"										"69 64 57 200"		// selection background in window w/o focus
-		"ListBG"											"39 36 34 200"		// background of server browser, buddy list, etc.
+		"ControlBG"	"76 88 68 200"		// background color of controls
+		"ControlDarkBG"	"90 106 80 200"		// darker background color; used for background of scrollbars
+		"WindowBG"	"62 70 55 200"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"	"90 84 75 200"		// background color of any selected text or menu item
+		"SelectionBG2"	"69 64 57 200"		// selection background in window w/o focus
+		"ListBG"	"39 36 34 200"		// background of server browser, buddy list, etc.
 	}
 	
 	BaseSettings
@@ -310,7 +309,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -330,7 +329,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"35"
 				"tall_lodef"								"40"
 				"weight"									"500"
@@ -353,7 +352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"16"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -361,7 +360,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"16"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -369,7 +368,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"16"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -378,7 +377,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"19"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"
@@ -387,7 +386,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"										"Source Sans Pro Black"
+				"name"										"Inter Medium"
 				"tall"										"19"
 				"weight"									"0"
 				"range"										"0x0000 0x017F"

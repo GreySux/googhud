@@ -1,291 +1,325 @@
 "Resource/UI/build_menu/HudMenuEngyBuild.res"
 {
-	"MainBackground"
+	"MainBackground"	
 	{
-		"ControlName"		     					"EditablePanel"
-		"fieldName"									"MainBackground"
-		"xpos"										"cs-0.5"
-		"ypos"										"55"
-		"zpos"										"0"
-		"wide"										"288"
-		"tall"										"110"
-		"autoResize"	        					"0"
-		"pinCorner"		        					"1"
-		"enabled"	          						"1"
-		"PaintBackgroundType"						"0"
-		"paintbackground"							"1"
-		"bgcolor_override"							"TransparentBlack"
-		"border"									"HypnoBorder"
+		"ControlName"	"CIconPanel"
+		"fieldName"		"MainBackground"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
-	
-	"TitleLabel"
-	{	
-		"ControlName"								"CExLabel"
-		"fieldName"									"TitleLabel"
-		"font"										"GameFont16"
-		"fgcolor"									"Main Theme"
-		"xpos"										"cs-0.5"
-		"ypos"										"28"
-		"zpos"										"2"
-		"wide"										"300"
-		"tall"										"38"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"build"
-		"textAlignment"								"west"
-		"dulltext"									"0"
-		"brighttext"								"0"
-	}
-	
-	"CancelLabel"
-	{	
-		"ControlName"								"CExLabel"
-		"fieldName"									"CancelLabel"
-		"font"										"SpectatorKeyHints"
-		"fgcolor" 									"255 255 255 255"
-		"xpos"										"cs-0.3"
-		"ypos"										"57"
-		"zpos"										"1"
-		"wide"										"200"
-		"tall"										"13"
-		"autoResize"								"0"
-		"pinCorner"									"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"#Hud_Menu_Build_Cancel"
-		"textAlignment"								"East"
-		"dulltext"									"0"
-		"brighttext"								"0"
-	}
-	
-	"active_item_1"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"active_item_1"
-		"xpos"										"cs-1.5"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}	
-	
-	"active_item_2"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"active_item_2"
-		"xpos"										"cs-0.85"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}	
-	
-	"active_item_3"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"active_item_3"
-		"xpos"										"cs-0.2"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}	
-	
-	"active_item_4"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"active_item_4"
-		"xpos"										"cs0.5"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}
-	
-	"already_built_item_1"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"already_built_item_1"
-		"xpos"										"cs-1.5"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}	
-	
-	"already_built_item_2"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"already_built_item_2"
-		"xpos"										"cs-0.85"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}	
-	
-	"already_built_item_3"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"already_built_item_3"
-		"xpos"										"cs-0.2"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}	
-	
-	"already_built_item_4"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"already_built_item_4"
-		"xpos"										"cs0.5"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}
-	
-	"cant_afford_item_1"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"cant_afford_item_1"
-		"xpos"										"cs-1.5"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}	
-	
-	"cant_afford_item_2"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"cant_afford_item_2"
-		"xpos"										"cs-.85"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}	
-	
-	"cant_afford_item_3"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"cant_afford_item_3"
-		"xpos"										"cs-.2"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}	
-	
-	"cant_afford_item_4"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"cant_afford_item_4"
-		"xpos"										"cs.5"
-		"ypos"										"47"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"0"
-	}
-
-	"unavailable_item_1"
-	{
-		"ControlName"								"CEngyDestroyMenuItem"
-		"fieldName"									"unavailable_item_1"
-		"xpos"										"cs-1.5"
-		"ypos"										"49"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}	
-	
-	"unavailable_item_2"
-	{
-		"ControlName"								"CEngyDestroyMenuItem"
-		"fieldName"									"unavailable_item_2"
-		"xpos"										"cs-0.85"
-		"ypos"										"49"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}	
-	
-	"unavailable_item_3"
-	{
-		"ControlName"								"CEngyDestroyMenuItem"
-		"fieldName"									"unavailable_item_3"
-		"xpos"										"cs-0.2"
-		"ypos"										"49"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}	
-	
-	"unavailable_item_4"
-	{
-		"ControlName"								"CEngyDestroyMenuItem"
-		"fieldName"									"unavailable_item_4"
-		"xpos"										"cs0.5"
-		"ypos"										"49"
-		"zpos"										"1"
-		"wide"										"100"
-		"tall"										"124"
-		"visible"									"1"
-	}
-	
-	
-	
-	
-	
-	//////////////////////////////////REMOVED STUFF//////////////////////////////////
-	
-	
-	"Divider"	
-	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"Divider"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
-	}
-	
 	"BuildIcon"	
 	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"BuildIcon"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
+		"ControlName"	"CIconPanel"
+		"fieldName"		"BuildIcon"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
-	
 	"BuildIconShadow"	
 	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"BuildIconShadow"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
+		"ControlName"	"CIconPanel"
+		"fieldName"		"BuildIconShadow"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"MenuBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"MenuBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-1"
+		"wide"			"120"
+		"tall"			"175"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"		"15 15 15 215"
+
+		"pin_to_sibling"	"TitleBG"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+	}
+	"menumem"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"menumem"
+		"xpos"			"0"
+		"ypos"			"2"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"3"
+		"visible"		"0"
+		"enabled"		"1"
+		"bgcolor_override"		"43 195 123 255"
+
+		"pin_to_sibling"	"TitleBG"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+	}
+	"TitleBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"TitleBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"120"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"		"Main Theme"
+	}
+	"Titlemem"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"TitleBGmem"
+		"xpos"			"0"
+		"ypos"			"12"
+		"zpos"			"2"
+		"wide"			"120"
+		"tall"			"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"		"PanelBG"
+	}
+	"TitleLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"TitleLabel"
+		"font"			"GameFont10"
+		"fgcolor"		"White"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"2"
+		"wide"			"120"
+		"tall"			"13"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"BUILD"
+		"textAlignment"	"west"
+		"textinsetx"	"20"
+
+		"pin_to_sibling"	"TitleBG"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+	}
+	"TitleLabelDropshadow"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"TitleLabelDropshadow"
+		"font"			"GameFont10"
+		"fgcolor"		"Shadow"
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"13"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"BUILD"
+		"textAlignment"	"west"
+		"textinsetx"	"20"
+
+		"pin_to_sibling"	"TitleLabel"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+	}
+	"CancelLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"CancelLabel"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"active_item_1"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"active_item_1"
+		"xpos"			"0"
+		"ypos"			"22"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"1"
+	}	
+	"active_item_2"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"active_item_2"
+		"xpos"			"0"
+		"ypos"			"62"
+		"zpos"			"1"
+		"wide"			"135"
+		"tall"			"124"
+		"visible"		"1"
+	}	
+	"active_item_3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"active_item_3"
+		"xpos"			"0"
+		"ypos"			"102"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"1"
+	}	
+	"active_item_4"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"active_item_4"
+		"xpos"			"0"
+		"ypos"			"142"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"1"
+	}
+	"already_built_item_1"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_1"
+		"xpos"			"0"
+		"ypos"			"22"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"already_built_item_2"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_2"
+		"xpos"			"0"
+		"ypos"			"62"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"already_built_item_3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_3"
+		"xpos"			"0"
+		"ypos"			"102"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"already_built_item_4"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"already_built_item_4"
+		"xpos"			"0"
+		"ypos"			"142"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}
+	"cant_afford_item_1"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_1"
+		"xpos"			"0"
+		"ypos"			"22"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"cant_afford_item_2"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_2"
+		"xpos"			"0"
+		"ypos"			"62"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"cant_afford_item_3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_3"
+		"xpos"			"0"
+		"ypos"			"102"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"cant_afford_item_4"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"cant_afford_item_4"
+		"xpos"			"0"
+		"ypos"			"142"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}
+	"unavailable_item_1"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"unavailable_item_1"
+		"xpos"			"0"
+		"ypos"			"22"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"unavailable_item_2"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"unavailable_item_2"
+		"xpos"			"0"
+		"ypos"			"62"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"unavailable_item_3"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"unavailable_item_3"
+		"xpos"			"0"
+		"ypos"			"102"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
+	}	
+	"unavailable_item_4"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"unavailable_item_4"
+		"xpos"			"0"
+		"ypos"			"142"
+		"zpos"			"1"
+		"wide"			"120"
+		"tall"			"34"
+		"visible"		"0"
 	}	
 }

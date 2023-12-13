@@ -213,7 +213,7 @@
 				"tabPosition"	"0"
 				"font"			"HudFontSmallestBold"
 				"textAlignment"	"center"
-				"textinsety"	"2"
+				"textinsety"	"0"
 				"dulltext"		"0"
 				"brighttext"	"0"
 				"Command"		"join_match"

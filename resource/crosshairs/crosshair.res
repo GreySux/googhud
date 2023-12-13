@@ -12,7 +12,7 @@
 		//	  	"visible" "1" = Enabled  "visible" "0" = Disabled		//
 		//////////////////////////////////////////////////////////////////
 		
-		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "2" "wide" "100" "tall" "100" "textAlignment" "center"
+		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "2" "wide" "100" "tall" "100" "textAlignment" "center"
 		
 		//////////////////////////////////////////////////////////////////
 		//					  	   CROSSHAIR TYPE						//
@@ -79,7 +79,7 @@
 		//	  	"visible" "1" = Enabled  "visible" "0" = Disabled		//
 		//////////////////////////////////////////////////////////////////
 		
-		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshairBlurShadow" "enabled" "1" "xpos" "0" "ypos" "0" "zpos" "1" "wide" "101" "tall" "101" "textAlignment" "center" "pin_to_sibling" "CustomCrosshair"
+		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshairBlurShadow" "enabled" "1" "xpos" "0" "ypos" "0" "zpos" "1" "wide" "101" "tall" "101" "textAlignment" "center" "pin_to_sibling" "CustomCrosshair"
 		
 		//////////////////////////////////////////////////////////////////
 		//					  	   SHADOW TYPE							//

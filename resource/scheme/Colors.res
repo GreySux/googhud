@@ -1,3 +1,7 @@
+#base	"../../customizations/colors.res"
+
+//THIS IS A BIT UNORGANIZED FOR GOOGHUD, USE THE CUSTOMIZATION COLORS.RES UNLESS YOU KNOW WHAT YOU ARE DOING//
+
 Scheme
 {
 	Colors
@@ -491,9 +495,9 @@ Scheme
 		ListPanel.EmptyListInfoTextColor					"White"
 
 		Menu.TextColor										"White"
-		Menu.BgColor										"DarkBG"
+		Menu.BgColor										"Shadow"
 		Menu.ArmedTextColor									"Gray"
-		Menu.ArmedBgColor									"White"
+		Menu.ArmedBgColor									"Main Theme"
 		Menu.TextInset										"6"
 
 		Chat.TypingText										"White"

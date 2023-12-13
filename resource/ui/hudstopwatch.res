@@ -6,6 +6,7 @@
 		"fieldName"				"HudStopWatchBG"
 		"xpos"					"cs1"
 		"ypos"					"r22"
+		"ypos_minmode"				"r40"
 		"zpos"					"0"
 		"wide"					"110"
 		"tall"					"25"

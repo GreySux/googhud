@@ -42,6 +42,16 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
+		CustomIcons46
+		{
+			"1"
+			{
+				"name"										"Icons"
+				"tall"										"46"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
 		ModPics18	//close X
 		{
 			"1"
@@ -91,18 +101,19 @@ Scheme
                 "additive"    								"0"
                 "antialias"    								"1"
                 "dropshadow"    							"0"
-            }
+		}
+	}
 	
 		"Class Symbols 40"
-		{
+	{
 			"1"
-			{
+		{
 				"name"			"TF2 Class Icons"
 				"tall"			"40"
 				"additive"  	"0"
 				"antialias"		"1"
-			}
 		}
+	}
 		
 		"Class Symbols 48"
 		{

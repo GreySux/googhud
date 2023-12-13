@@ -229,22 +229,22 @@
 		"unicode"			"0"
 		"default"			"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
-		"disabledFgColor_override" "ahudWhite"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
-		"selectionTextColor_override" "ahudWhite"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"fgcolor_override"	"white"
+		"bgcolor_override"	"black"
+		"disabledFgColor_override" "white"
+		"disabledBgColor_override" "black"
+		"selectionColor_override" "black"
+		"selectionTextColor_override" "white"
+		"defaultSelectionBG2Color_override" "black"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"ahudWhite"
-			"defaultBgColor_override"	"ahudBlack"
-			"selectedFgColor_override"	"ahudBlack"
-			"selectedBgColor_override"	"ahudWhite"
-			"armedFgColor_override"	"ahudBlack"
-			"armedBgColor_override"	"ahudWhite"
+			"defaultFgColor_override"	"white"
+			"defaultBgColor_override"	"black"
+			"selectedFgColor_override"	"black"
+			"selectedBgColor_override"	"white"
+			"armedFgColor_override"	"black"
+			"armedBgColor_override"	"white"
 			"paintbackgroundtype"	"0"
 		}
 	}	
@@ -268,8 +268,8 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"white"
+		"bgcolor_override"	"black"
 	}
 
 	"NameFilterLabel"
@@ -288,7 +288,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"ahudWhite"
+		"fgcolor"		"white"
 	}
 
 	"NameFilterTextEntry"
@@ -307,8 +307,8 @@
 		"textHidden"		"0"
 		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
+		"fgcolor_override"	"white"
+		"bgcolor_override"	"black"
 		"paintbackgroundtype" "2"
 		"font"		"GameFont10"
 	}
@@ -334,22 +334,22 @@
 		"unicode"			"0"
 		"default"			"0"
 		
-		"fgcolor_override"	"ahudWhite"
-		"bgcolor_override"	"ahudBlack"
-		"disabledFgColor_override" "ahudWhite"
-		"disabledBgColor_override" "ahudBlack"
-		"selectionColor_override" "ahudBlack"
-		"selectionTextColor_override" "ahudWhite"
-		"defaultSelectionBG2Color_override" "ahudBlack"
+		"fgcolor_override"	"white"
+		"bgcolor_override"	"black"
+		"disabledFgColor_override" "white"
+		"disabledBgColor_override" "black"
+		"selectionColor_override" "black"
+		"selectionTextColor_override" "white"
+		"defaultSelectionBG2Color_override" "black"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"ahudWhite"
-			"defaultBgColor_override"	"ahudBlack"
-			"selectedFgColor_override"	"ahudBlack"
-			"selectedBgColor_override"	"ahudWhite"
-			"armedFgColor_override"	"ahudBlack"
-			"armedBgColor_override"	"ahudWhite"
+			"defaultFgColor_override"	"white"
+			"defaultBgColor_override"	"black"
+			"selectedFgColor_override"	"black"
+			"selectedBgColor_override"	"white"
+			"armedFgColor_override"	"black"
+			"armedBgColor_override"	"white"
 			"paintbackgroundtype"	"0"
 		}
 	}	
@@ -741,7 +741,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -898,7 +898,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -965,7 +965,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -1122,7 +1122,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -1170,7 +1170,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -1347,7 +1347,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -1395,7 +1395,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -1571,7 +1571,7 @@
 			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"ahudWhite"
+			"image_drawcolor"	"white"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"

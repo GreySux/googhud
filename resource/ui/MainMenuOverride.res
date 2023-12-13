@@ -1053,7 +1053,7 @@
 			"ypos"					"-5"
 			"zpos"					"16"
 			"wide"					"136"
-			"tall"					"27"
+			"tall"					"18"
 			"visible"				"1"
 			"enabled"				"1"
 			"labeltext"				"reload hud"
@@ -1088,7 +1088,7 @@
 			"ypos"					"0"
 			"zpos"					"16"
 			"wide"					"136"
-			"tall"					"27"
+			"tall"					"18"
 			"visible"				"1"
 			"enabled"				"1"
 			"labeltext"				"sound fix"	
@@ -1123,7 +1123,7 @@
 			"ypos"					"0"
 			"zpos"					"16"
 			"wide"					"136"
-			"tall"					"27"
+			"tall"					"18"
 			"visible"				"1"
 			"enabled"				"1"
 			"labeltext"				"net graph"	
@@ -1157,7 +1157,7 @@
 			"ypos"					"0"
 			"zpos"					"16"
 			"wide"					"136"
-			"tall"					"27"
+			"tall"					"18"
 			"visible"				"1"
 			"enabled"				"1"
 			"labeltext"				"min viewmodels"
@@ -1179,6 +1179,72 @@
 			"bgcolor_override"                           "0 0 0 130"			
 			
 			"pin_to_sibling"		"NetgraphToggle"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		}
+		"Minmode"
+		{
+			"ControlName"			"CExImageButton"
+			"fieldname"				"Minmode"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"16"
+			"wide"					"136"
+			"tall"					"18"
+			"visible"				"1"
+			"enabled"				"1"
+			"labeltext"				"hud minmode"
+			"command"				"engine toggle cl_hud_minmode"
+			"actionsignallevel"		"2"
+			"font"					"GameFont12"
+			"textAlignment"			"center"	
+			"sound_depressed"		"UI/buttonclick.wav"
+			"sound_released"		"UI/buttonclickrelease.wav"
+			
+			"defaultBgColor_override"		"0 0 0 130"
+			"armedBgColor_override"			"Main Theme"
+			"depressedBgColor_override"		"Main Theme"
+		
+			
+			"proportionaltoparent"                       "1"
+			"PaintBackground"                            "1"
+			"PaintBackgroundType"                        "1"
+			"bgcolor_override"                           "0 0 0 130"			
+			
+			"pin_to_sibling"		"MinViewmodel"
+			"pin_corner_to_sibling" "PIN_TOPLEFT"
+			"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
+		}
+		"viewmodeltoggle"
+		{
+			"ControlName"			"CExImageButton"
+			"fieldname"				"viewmodeltoggle"
+			"xpos"					"0"
+			"ypos"					"0"
+			"zpos"					"16"
+			"wide"					"136"
+			"tall"					"18"
+			"visible"				"1"
+			"enabled"				"1"
+			"labeltext"				"viewmodel toggle"
+			"command"				"engine toggle r_drawviewmodel"
+			"actionsignallevel"		"2"
+			"font"					"GameFont12"
+			"textAlignment"			"center"	
+			"sound_depressed"		"UI/buttonclick.wav"
+			"sound_released"		"UI/buttonclickrelease.wav"
+			
+			"defaultBgColor_override"		"0 0 0 130"
+			"armedBgColor_override"			"Main Theme"
+			"depressedBgColor_override"		"Main Theme"
+		
+			
+			"proportionaltoparent"                       "1"
+			"PaintBackground"                            "1"
+			"PaintBackgroundType"                        "1"
+			"bgcolor_override"                           "0 0 0 130"			
+			
+			"pin_to_sibling"		"minmode"
 			"pin_corner_to_sibling" "PIN_TOPLEFT"
 			"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 		}		
@@ -1261,7 +1327,7 @@
 			"fgcolor_override"		"TanLight"
 			"bgcolor_override"                           "Main Theme"
 			
-			"pin_to_sibling"		"MinViewmodel"
+			"pin_to_sibling"		"viewmodeltoggle"
 			"pin_corner_to_sibling" "PIN_TOPLEFT"
 			"pin_to_sibling_corner" "PIN_BOTTOMLEFT"
 		}
@@ -2077,10 +2143,10 @@
 			"pin_to_sibling" 							"GreenDamage"	
 		}
 
-		"TanDamage"
+		"PurpleDamage"
 		{
 			"ControlName"	           				 	"CExImageButton"
-			"fieldname"		           				 	"TanDamage"
+			"fieldname"		           				 	"PurpleDamage"
 			"xpos"		           				 	 	"-32"
 			"ypos"		           				 	 	"0"
 			"zpos"		           				 	 	"100"
@@ -2100,9 +2166,9 @@
 			"proportionaltoparent"	           			"1"
 			"use_proportional_insets"	       			"1"
 			"textinsetx"		       				    "7"
-			"defaultBgColor_override" 					"235 226 202 255"
-			"armedBgColor_override" 					"235 226 202 180"
-			"depressedBgColor_override" 				"235 226 202 180"
+			"defaultBgColor_override" 					"255 0 255 255"
+			"armedBgColor_override" 					"255 0 255 180"
+			"depressedBgColor_override" 				"255 0 255 180"
 			//"border_default"		       				"noborder"
 		
 			"pin_to_sibling" 							"WhiteDamage"	
@@ -2136,7 +2202,7 @@
 			"depressedBgColor_override" 				"30 150 200 180"
 			//"border_default"		       				"noborder"
 		
-			"pin_to_sibling" 							"TanDamage"			
+			"pin_to_sibling" 							"PurpleDamage"			
 		}	
 
 		"YellowDamage"
