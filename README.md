@@ -2,8 +2,15 @@
 
 To install, press the green "Code" on github, then download ZIP. Once downloaded, open/unzip the file and drag the folder "googhud-main" into \Team Fortress 2\tf\custom
 
-Currently 1.0 release. This is the full release! If you do encounter any bugs, be sure to reach out via discord or through the github issues section.
+Currently 1.1 release. this upodate includes:
+- new customization menu
+- new customization folder with many options such as health, chat, scoreboard, etc.
+- new and better file layouts
+- many color updates to various parts
+- better resolution compatibility
+- many many many many fixes
 
+1.1 is the result of a ton of work from myself individually, as i am still working on this more or less alone. thanks to the folks that helped me with testing though!!! please don't be afraid to reach out if you'd like to give assistance.
 
 Screenshots: https://imgur.com/a/960Ftgi
 
@@ -20,12 +27,14 @@ Thanks to the following folks who I borrowed hud elements from:
 - paolo - noobpanzerhud
 - jarateking - HUD Reference Wiki
 
-TO DO:
-- customization options
-- win panel overhaul
-- better compatability for the unpopular gamemodes
-- main menu customization panel additions
-- bug fixes
+
+this is still not even close to where i want this hud to be, and more updates are to come. major plans include:
+
+- more and better customization folder options
+- more and better customization menu options
+- tf2hudeditor integration
+- medigun type icons
+- probably some more stuff im forgetting because im pushing this update at 4:00 AM
 
 I've been working on this by myself but if anyone is interested in helping out or even providing feedback, I'd really appreciate it! my discord is greysucks
 
