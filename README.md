@@ -12,7 +12,7 @@ Currently 1.1 release. this upodate includes:
 
 1.1 is the result of a ton of work from myself individually, as i am still working on this more or less alone. thanks to the folks that helped me with testing though!!! please don't be afraid to reach out if you'd like to give assistance.
 
-Screenshots: https://imgur.com/a/960Ftgi
+Screenshots: [here](https://imgur.com/a/H6aybW9)
 
 
 Thanks to the following folks who I borrowed hud elements from:
