@@ -1,4 +1,0 @@
-place all .vtf and .vmt files in googhud/materials/vgui/replay/thumbnails
-place hudlayout.res in googhud/scripts
-
-if you have already customized anything in your hudlayout.res, you can copy the "speedometer" section and paste that in. if you don't know what this means, feel free to ignore it.
