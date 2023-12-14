@@ -1,5 +1,5 @@
 "Resource/UI/HudObjectiveKothTimePanel.res"
-{	
+{
 	"HudKothTimeStatus"
 	{
 		if_match
@@ -55,7 +55,7 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"BlueTimer"
-		"xpos"				"0"
+		"xpos"				"c-67"
 		"ypos"				"0"
 		"zpos"				"2"
 		"wide"				"66"
@@ -83,15 +83,15 @@
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"GameFont16"
 		}
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"GameFont16"
 			"fgcolor"		"white"
-			"xpos"			"23"
-			"ypos"			"0"
+			"xpos"			"25"
+			"ypos"			"-5"
 			"zpos"			"3"
 			"wide"			"50"
 			"tall"			"31"
@@ -109,9 +109,9 @@
 				"wide"			"50"
 				"tall"			"31"
 				"font"			"GameFont16"
-			
+
 			}
-		}	
+		}
 	}
 
 	"RedTimer"
@@ -146,15 +146,15 @@
 			"delta_lifetime"		"1.5"
 			"delta_item_font"		"GameFont16"
 		}
-		
+
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"GameFont16"
 			"fgcolor"		"white"
-			"xpos"			"23"
-			"ypos"			"0"
+			"xpos"			"27"
+			"ypos"			"-5"
 			"zpos"			"3"
 			"wide"			"45"
 			"tall"			"31"
@@ -172,11 +172,11 @@
 				"wide"			"50"
 				"tall"			"31"
 				"font"			"GameFont16"
-			
+
 			}
-		}	
+		}
 	}
-	
+
 	"ActiveTimerBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -188,9 +188,9 @@
 		"tall"				"0"
 		"visible"			"0"
 		"enabled"			"1"
-		"image"				""	
+		"image"				""
 		"fillcolor"			"white"
-		"scaleImage"		"0"	
+		"scaleImage"		"0"
 	}
 //	"Shade"
 //	{
