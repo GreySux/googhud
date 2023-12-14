@@ -1,30 +1,30 @@
 "Resource/UI/HudObjectiveFlagPanel.res"
-{	
+{
 	"ObjectiveStatusFlagPanel"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"ObjectiveStatusFlagPanel"
-		"xpos"										"0"	
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
 		"wide"										"f0"
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		
+
 		"if_hybrid"
 		{
 			"zpos"									"-1"
 		}
 		"if_mvm"
 		{
-			"xpos"									"-7"	
+			"xpos"									"-7"
 			"ypos"									"-8"
 		}
-		
+
 	}
 
-	"BlueScoreBG"	
+	"BlueScoreBG"
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"BlueScoreBG"
@@ -56,7 +56,7 @@
 			"visible"								"0"
 		}
 	}
-	
+
 	"BlueScore"
 	{
 		"ControlName"								"CExLabel"
@@ -68,11 +68,11 @@
 		"tall"										"19"
 		"visible"									"1"
 		"enabled"									"1"
-		"textAlignment"								"west"	
+		"textAlignment"								"west"
 		"labelText"									"%bluescore%"
 		"font"										"GameFont10"
 		"fgcolor"									"White"
-		
+
 		"if_hybrid"
 		{
 			"visible"								"0"
@@ -88,8 +88,8 @@
 			"visible"								"0"
 		}
 	}
-	
-	"RedScoreBG"	
+
+	"RedScoreBG"
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"RedScoreBG"
@@ -121,7 +121,7 @@
 			"visible"								"0"
 		}
 	}
-	
+
 	"RedScore"
 	{
 		"ControlName"								"CExLabel"
@@ -133,11 +133,11 @@
 		"tall"										"19"
 		"visible"									"1"
 		"enabled"									"1"
-		"textAlignment"								"east"	
+		"textAlignment"								"east"
 		"labelText"									"%redscore%"
 		"font"										"GameFont10"
-		"fgcolor"									"White"		
-		
+		"fgcolor"									"White"
+
 		"if_hybrid"
 		{
 			"visible"								"0"
@@ -167,7 +167,7 @@
 		"enabled"									"1"
 		"image"										"../hud/objectives_flagpanel_carried_red"
 		"scaleImage"								"1"
-		
+
 		"if_hybrid"
 		{
 			"ypos"									"r142"
@@ -196,7 +196,7 @@
 		"brighttext"								"0"
 		"font"										"DefaultVerySmall"
 		"fgcolor"									"White"
-		
+
 		"if_hybrid"
 		{
 			"visible"								"0"
@@ -210,36 +210,36 @@
 			"visible"								"0"
 		}
 	}
-		
+
 	"BlueFlag"
 	{
 		"ControlName"								"CTFFlagStatus"
 		"fieldName"									"BlueFlag"
 		"xpos"										"c-74"
-		"ypos"										"r27"	
+		"ypos"										"r27"
 		"zpos"										"5"
 		"wide"										"160"
 		"tall"										"90"
 		"visible"									"1"
 		"enabled"									"1"
-		
+
 		"if_hybrid"
 		{
 			"visible"								"0"
 			"ypos"									"r100"
 		}
-		
+
 		"if_hybrid_single"
 		{
 			"xpos"									"c-55"
-			"ypos"									"r25"
+			"ypos"									"r55"
 		}
-		
+
 		"if_hybrid_double"
 		{
 			"xpos"									"c-115"
 		}
-		
+
 		"if_no_flags"
 		{
 			"visible"								"0"
@@ -250,36 +250,36 @@
 			"visible"								"1"
 		}
 	}
-	
+
 	"RedFlag"
 	{
 		"ControlName"								"CTFFlagStatus"
 		"fieldName"									"RedFlag"
 		"xpos"										"c-35"
-		"ypos"										"r27"	
+		"ypos"										"r27"
 		"zpos"										"5"
 		"wide"										"160"
 		"tall"										"90"
 		"visible"									"1"
 		"enabled"									"1"
-				
+
 		"if_hybrid"
 		{
 			"visible"								"0"
 			"ypos"									"r100"
 		}
-		
+
 		"if_hybrid_single"
 		{
 			"xpos"									"c-55"
 			"ypos"									"r25"
 		}
-		
+
 		"if_hybrid_double"
 		{
 			"xpos"									"c-45"
 		}
-		
+
 		"if_no_flags"
 		{
 			"visible"								"0"
@@ -290,20 +290,20 @@
 			"visible"								"0"
 			"ypos" 									"9999"
 		}
-	}	
-	
+	}
+
 	"CaptureFlag"
 	{
 		"ControlName"								"CTFArrowPanel"
 		"fieldName"									"CaptureFlag"
 		"xpos"										"cs-.5"
-		"ypos"										"r38"	
+		"ypos"										"r38"
 		"zpos"										"5"
 		"wide"										"40"
 		"tall"										"40"
 		"visible"									"0"
 		"enabled"									"1"
-		
+
 		"if_hybrid"
 		{
 			"ypos"									"r100"
@@ -314,7 +314,7 @@
 			"visible"								"0"
 		}
 	}
-	
+
 	"PoisonIcon"
 	{
 		"ControlName"								"ImagePanel"
@@ -341,12 +341,12 @@
 		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"textAlignment"								"center"	
+		"textAlignment"								"center"
 		"labelText"									"%redscore%"
 		"font"										"HudFontMediumBold"
 		"fgcolor"									"White"
-	}	
-	
+	}
+
 	"SpecCarriedImage"
 	{
 		"ControlName"								"ImagePanel"
@@ -362,10 +362,10 @@
 		"scaleImage"								"1"
 	}
 
-	
-	
-	
-	
+
+
+
+
 	"OutlineBG"
 	{
 		"ControlName"	"ImagePanel"
