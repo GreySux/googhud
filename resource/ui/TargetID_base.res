@@ -39,7 +39,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"TargetDataLabel"
-		"font"						"TargetIDIcons"
+		"font"						"GameFont8"
 		"xpos"						"8"
 		"ypos"						"17"
 		"zpos"						"1"
