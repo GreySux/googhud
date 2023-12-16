@@ -5,7 +5,7 @@ Scheme
 		"Buttons"	"materials/vgui/fonts/buttons_32.vbf"
 		"ButtonsSC"	"materials/vgui/fonts/buttons_sc.vbf"
 	}
-	
+
 	Fonts
 	{
 		GameFont46
@@ -339,7 +339,7 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
-		
+
 		CenterPrintText //should be MGE text
 		{
 			// note that this scales with the screen resolution
@@ -353,7 +353,7 @@ Scheme
 				"additive"	"1"
 			}
 		}
-		
+
 		"Default"
 		{
 			"1"
@@ -385,7 +385,7 @@ Scheme
 				"yres"	    								"1001 10000"
 			}
 		}
-		
+
 		"DefaultSmall"
 		{
 			"1"
@@ -464,7 +464,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		
+
 		HudHintText
 		{
 			"1"
@@ -509,7 +509,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		
+
 		"HudFontGiant"
 		{
 			"1"
@@ -608,7 +608,7 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}	
+		}
 		"HudFontMediumBigBold"
 		{
 			"1"
@@ -619,7 +619,7 @@ Scheme
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}		
+		}
 		"HudFontMedium"
 		{
 			"1"
@@ -703,7 +703,7 @@ Scheme
 				"additive"		"0"
 				"antialias" 	"1"
 			}
-		}	
+		}
 		"HudFontSmallishBold"
 		{
 			"1"
@@ -784,7 +784,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+
 		Icons
 		{
 			"1"
@@ -871,7 +871,7 @@ Scheme
 				"weight"	"500"
 			}
 		}
-		
+
 		"GoalText"
 		{
 			"1"
@@ -884,8 +884,8 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
-		
+		}
+
 		"ChalkboardTitle"
 		{
 			"1"
@@ -894,7 +894,7 @@ Scheme
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
-				"antialias"		"1" 
+				"antialias"		"1"
 				"custom"		"1" [$OSX]
 				"weight"		"500"
 				"weight_lodef"	"800"
@@ -1185,7 +1185,7 @@ Scheme
 				"antialias"		"1" // Chat antialias
 			}
 		}
-		
+
 		MenuSmallestFont
 		{
 			"1"
@@ -1197,8 +1197,8 @@ Scheme
 				"weight"		"300"
 				"antialias"		"1"
 			}
-		}	
-		
+		}
+
 		MenuSmallFont
 		{
 			"1"
@@ -1211,7 +1211,7 @@ Scheme
 				"weight_lodef"	"600"
 				"antialias"		"1"
 			}
-		}			
+		}
 		CapPlayerFont
 		{
 			"1"
@@ -1247,7 +1247,7 @@ Scheme
 				"additive"	"1"
 				"antialias" 	"1"
 			}
-		}		
+		}
 		TFFontMedium
 		{
 			"1"
@@ -1260,8 +1260,8 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
-		
+		}
+
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
 		"DefaultVerySmallFallBack"
 		{
@@ -1293,7 +1293,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		
+
 		"ItemFontNameSmallest"
 		{
 			"1"
@@ -1380,7 +1380,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}	
+		}
 		"ItemFontAttribLarger"
 		{
 			"1"
@@ -1392,7 +1392,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"AchievementTracker_Name"
 		{
 			"1"
@@ -1528,7 +1528,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"EconFontSmall"
 		{
 			"1"
@@ -1644,7 +1644,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"Class Symbols 48"
 		{
 			"1"
@@ -1655,7 +1655,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"Class Symbols 72"
 		{
 			"1"
@@ -1862,13 +1862,13 @@ Scheme
 			}
 		}
 	}
-	
 
-	
+
+
 	CustomFontFiles
 	{
-		
-		"8" 
+
+		"8"
 		{
 			"font" 		"resource/scheme/fontfiles/TF2secondary.ttf"
 			"name" 		"TF2 Secondary"
@@ -1880,16 +1880,18 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
-		"1" 
+		}
+		"9"
 		{
 			"font" 		"resource/scheme/fontfiles/Inter-Medium.ttf"
 			"name" 		"Inter Medium"
-		"10" 
+		}
+		"10"
 		{
 			"font" 		"resource/scheme/fontfiles/ModernPics.otf"
 			"name" 		"ModernPictograms"
 		}
-		"13" 
+		"13"
 		{
 			"font" 		"resource/scheme/fontfiles/Blocks.ttf"
 			"name" 		"Blocks"
@@ -1899,7 +1901,7 @@ Scheme
 			"font"		"resource/scheme/fontfiles/TF2 Class Icons.otf"
 			"name" 		"TF2 Class Icons"
 		}
-		"88" 
+		"88"
 		{
 			"font" 		"resource/scheme/fontfiles/Emblems.ttf"
 			"name" 		"Emblems"
