@@ -13,7 +13,7 @@
 		"enabled"					"1"
 		"bgcolor_override"			"TransparentLightBlack"
 	}
-	
+
 	"TargetNameLabel"
 	{
 		"ControlName"				"Label"
@@ -34,7 +34,7 @@
 		"brighttext"				"0"
 		"alpha"						"255"
 	}
-	
+
 	"TargetDataLabel"
 	{
 		"ControlName"				"Label"
@@ -71,7 +71,7 @@
 		"HealthDeathWarningColor"	"Low Health"
 		"TextColor"					"Health Numbers"
 	}
-	
+
 	"AmmoIcon"
 	{
 		"ControlName"				"ImagePanel"
@@ -86,7 +86,7 @@
 		"image"						"../hud/leaderboard_class_heavy"
 		"scaleImage"				"1.5"
 	}
-	
+
 	"KillStreakAnchor"
 	{
 		"ControlName"				"EditablePanel"
@@ -98,7 +98,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 	}
-	
+
 	"KillStreakIcon"
 	{
 		"ControlName"				"ImagePanel"
@@ -112,10 +112,10 @@
 		"enabled"					"1"
 		"image"						"../hud/leaderboard_streak"
 		"scaleImage"				"1"
-		
+
 		"pin_to_sibling" 			"KillStreakAnchor"
 	}
-	
+
 	"TargetIDBG"
 	{
 		"ControlName"				"CTFImagePanel"
@@ -138,5 +138,5 @@
 		"xpos"						"9999"
 		"wide"						"0"
 		"tall"						"0"
-	}	
+	}
 }

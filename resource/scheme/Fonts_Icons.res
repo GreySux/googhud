@@ -103,7 +103,7 @@ Scheme
                 "dropshadow"    							"0"
 		}
 	}
-	
+
 		"Class Symbols 40"
 	{
 			"1"
@@ -114,7 +114,7 @@ Scheme
 				"antialias"		"1"
 		}
 	}
-		
+
 		"Class Symbols 48"
 		{
 			"1"
@@ -125,7 +125,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"Class Symbols 72"
 		{
 			"1"
@@ -302,8 +302,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-        }
-	
+		"TargetIDIcons"
+		{
+			"1"
+			{
+				"name"										"Inter-UberIcons"
+				"tall"										"10"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+}
+
 	CustomFontFiles
 	{
 		"20"
@@ -326,12 +336,12 @@ Scheme
 			"font" 		"resource/scheme/fontfiles/PinyonScript Regular.ttf"
 			"name" 		"Pinyon Script"
 		}
-		"24" 
+		"24"
 		{
 			"font" 		"resource/scheme/fontfiles/Emblems.ttf"
 			"name" 		"Emblems"
 		}
-		"25" 
+		"25"
 		{
 			"font" 		"resource/scheme/fontfiles/ModernPics.otf"
 			"name" 		"ModernPictograms"
@@ -350,6 +360,143 @@ Scheme
 		{
 			"font"		"resource/scheme/fontfiles/kbnhudicons.otf"
 			"name" 		"KBNHud Icons"
+		}
+		"29"
+		{
+			"font"		"resource/scheme/fontfiles/Inter-UberIcons.ttf"
+			"name"		"Inter-UberIcons"
+			"arabic"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"brazilian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"bulgarian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"czech"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"danish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"dutch"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"english"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"finnish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"french"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"german"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"greek"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"hebrew"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"hungarian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"italian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"japanese"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"korean"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"koreana"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"latvian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"lithuanian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"norwegian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"pirate"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"portuguese"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"romanian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"schinese"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"slovak"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"spanish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"swedish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"tchinese"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"thai"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"turkish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"ukrainian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
 		}
 	}
 }
