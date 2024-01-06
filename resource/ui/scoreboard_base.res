@@ -687,7 +687,25 @@
 			"visible"		"0"
 		}
 	}
-
+	"MapNameReal"
+	{
+			"ControlName"	"CExLabel"
+			"fieldName"		"mapname"
+			"font"			"GameFont12"
+			"labelText"		"%mapname%"
+			"textAlignment"		"center"
+			"xpos"			"c-61"
+			"ypos"			"c112"
+			"ypos_minmode"		"c86"
+			"zpos"			"3"
+			"wide"			"116"
+			"tall"			"20"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"255 255 255 255"
+	}	
 	"LocalPlayerDuelStatsPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -1011,7 +1029,7 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths2"
 			"font"			"GameFont40"
-			"font_minmode"			"GameFont30"
+			"font_minmode"		"GameFont30"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
 			"xpos"			"229"
@@ -1026,13 +1044,13 @@
 		}	
 		"MapName"
 		{
-			"ControlName"	"CExLabel"
+			"ControlName"		"CExLabel"
 			"fieldName"		"mapname"
-			"font"			"GameFont24"
+			"font"			"GameFont12"
 			"labelText"		"%mapname%"
 			"textAlignment"		"center"
 			"xpos"			"162"
-			"ypos"			"35"
+			"ypos"			"30"
 			"zpos"			"3"
 			"wide"			"116"
 			"tall"			"20"
@@ -1040,7 +1058,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
-			"fgcolor"		"236 227 203 255"
+			"fgcolor"		"255 255 255 255"
 		}	
 		"GameType"
 		{

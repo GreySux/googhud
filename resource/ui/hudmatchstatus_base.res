@@ -544,7 +544,7 @@
 				"fieldName"							"RespawnTime"
 				"font"								"HudFontSmall"
 				"xpos"								"0"
-				"ypos"								"0"
+				"ypos"								"15"
 				"zpos"								"10"
 				"wide"								"f0"
 				"tall"								"f0"

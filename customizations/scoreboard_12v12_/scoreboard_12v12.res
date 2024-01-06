@@ -645,7 +645,7 @@
 		"fieldName"		"HorizontalLine"
 		"xpos"			"9999"
 		"ypos"			"9999"	
-		"ypos_minmode"		"9999""	
+		"ypos_minmode"		"9999"
 		"zpos"			"3"
 		"wide"			"465"
 		"wide_lodef"	"434"
@@ -687,7 +687,25 @@
 			"visible"		"0"
 		}
 	}
-
+	"MapNameReal"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"mapname"
+			"font"			"GameFont12"
+			"labelText"		"%mapname%"
+			"textAlignment"		"center"
+			"xpos"			"c-61"
+			"ypos"			"c112"
+			"ypos_minmode"			"c112"
+			"zpos"			"3"
+			"wide"			"116"
+			"tall"			"20"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"fgcolor"		"255 255 255 255"
+		}	
 	"LocalPlayerDuelStatsPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -715,7 +733,7 @@
 			"labelText"		"#TF_ScoreBoard_Dueling"
 			"textAlignment"		"center"
 			"xpos"			"250"
-			"ypos"			"2	"
+			"ypos"			"2"
 			"zpos"			"3"
 			"wide"			"100"
 			"tall"			"20"
@@ -905,7 +923,7 @@
 		"fieldName"		"LocalPlayerStatsPanel"
 		"xpos"			"c-225"
 		"ypos"			"321"
-		"ypos_minmode"	"295"
+		"ypos_minmode"	"321"
 		"zpos"			"3"
 		"wide"			"450"
 		"tall"			"150"
@@ -1028,11 +1046,11 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"mapname"
-			"font"			"GameFont24"
+			"font"			"GameFont12"
 			"labelText"		"%mapname%"
 			"textAlignment"		"center"
-			"xpos"			"162"
-			"ypos"			"35"
+			"xpos"			"164"
+			"ypos"			"30"
 			"zpos"			"3"
 			"wide"			"116"
 			"tall"			"20"
@@ -1040,7 +1058,7 @@
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"1"
-			"fgcolor"		"236 227 203 255"
+			"fgcolor"		"255 255 255 255"
 		}	
 		"GameType"
 		{

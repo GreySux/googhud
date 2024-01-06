@@ -2,13 +2,10 @@
 
 To install, press the green "Code" on github, then download ZIP. Once downloaded, open/unzip the file and drag the folder "googhud-main" into \Team Fortress 2\tf\custom
 
-Currently 1.1 release. this upodate includes:
-- new customization menu
-- new customization folder with many options such as health, chat, scoreboard, etc.
-- new and better file layouts
-- many color updates to various parts
-- better resolution compatibility
-- many many many many fixes
+Currently 1.1.2 release. this upodate includes:
+- added map name to scoreboard
+- fixed 12v12 scoreboard
+-fixed scoreboard death timers being misaligned
 
 1.1 is the result of a ton of work from myself individually, as i am still working on this more or less alone. thanks to the folks that helped me with testing though!!! please don't be afraid to reach out if you'd like to give assistance.
 
