@@ -1,0 +1,81 @@
+"Resource/UI/disguise_menu/demoman_blue.res"
+{
+	"ItemNameLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"ItemName"
+		"font"			"Emblems14"
+		"fgcolor"		"googblue"
+		"xpos"			"55"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"75"
+		"tall"			"16"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"Demoman"
+		"textAlignment"	"west"
+	}
+	"ClassIcon"	
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"ClassIcon"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"NumberBg"	
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"NumberBg"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"NewNumberLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"NewNumberLabel"
+		"font"			"GameFont14"
+		"fgcolor"		"White"
+		"xpos"			"54"
+		"ypos"			"15"
+		"zpos"			"100"
+		"wide"			"16"
+		"tall"			"16"
+		"visible"		"0"
+		"enabled"		"1"
+		"labelText"		"1"
+		"textAlignment"	"center"
+		"pin_to_sibling"	"ItemNameLabel" // these pins do nothing idk why lmao
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		
+	}
+	"NumberLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"NumberLabel"
+		"font"			"GameFont14"
+		"fgcolor"		"White"
+		"xpos"			"9999"
+		"ypos"			"9999"
+		"zpos"			"0"
+		"wide"			"16"
+		"tall"			"16"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"4"
+		"textAlignment"	"center"
+		
+		"pin_to_sibling"	"ItemNameLabel"
+		"pin_corner_to_sibling"	"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"	"PIN_CENTER_BOTTOM"
+	}
+}

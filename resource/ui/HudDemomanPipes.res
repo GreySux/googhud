@@ -70,8 +70,8 @@
 			"xpos"									"0"
 			"xpos_minmode"							"c-15"
 			"ypos"									"0"
-			"ypos_minmode"							"c50"
-			"zpos"									"2"
+			"ypos_minmode"							"c63"
+			"zpos"									"22"
 			"wide"									"30"
 			"tall"									"20"
 			"autoResize"							"1"
@@ -84,7 +84,7 @@
 			"dulltext"								"0"
 			"brighttext"							"0"
 			"font"									"GameFont18"
-			"font_minmode"							"GameFont12"
+			"font_minmode"							"GameFont14"
 			"fgcolor"   							"White"
 		}
 		
@@ -95,7 +95,7 @@
 			"xpos"									"1"
 			"xpos_minmode"							"c-14"
 			"ypos"									"1"
-			"ypos_minmode"							"c51"
+			"ypos_minmode"							"c64"
 			"zpos"									"2"
 			"wide"									"30"
 			"tall"									"20"
