@@ -1,0 +1,124 @@
+//===========================================================================================================================
+
+event FillKritz
+{
+	RunEvent KritzDigitLoop 						0.0
+ 
+	Animate KCounter10 								Alpha 		"255" 							Linear 	3.9 	0.0
+	Animate KCounter10 								Alpha 		"0" 							Linear 	7.8 	0.0
+	Animate KCounter20 								Alpha 		"255" 							Linear 	7.8 	0.0
+	Animate KCounter20 								Alpha 		"0" 							Linear 	11.7 	0.0
+	Animate KCounter30 								Alpha 		"255" 							Linear 	11.7 	0.0
+	Animate KCounter30 								Alpha 		"0" 							Linear 	15.6 	0.0
+	Animate KCounter40 								Alpha 		"255" 							Linear 	15.6 	0.0
+	Animate KCounter40 								Alpha 		"0"								Linear 	19.5 	0.0
+	Animate KCounter50 								Alpha 		"255" 							Linear 	19.5 	0.0
+	Animate KCounter50 								Alpha 		"0" 							Linear 	23.4 	0.0
+	Animate KCounter60							 	Alpha 		"255" 							Linear 	23.4 	0.0
+	Animate KCounter60 								Alpha 		"0" 							Linear 	27.3 	0.0
+	Animate KCounter70 								Alpha 		"255"  							Linear	27.3 	0.0
+	Animate KCounter70 								Alpha 		"0"  							Linear 	31.2 	0.0
+	Animate KCounter80								Alpha 		"255"  							Linear 	31.2 	0.0
+	Animate KCounter80 								Alpha 		"0"  							Linear 	35.1 	0.0
+	Animate KCounter90								Alpha 		"255"  							Linear 	35.1 	0.0
+	Animate KCounter90								Alpha 		"0"						 		Linear 	39.0 	0.0
+	Animate KCounter100								Alpha 		"255"  							Linear 	39.0 	0.0
+	
+	Animate AlertKritz 								Alpha 		"255" 							Linear 	27.3 	0.3
+	Animate AlertKritz 								Alpha 		"0" 							Linear 	30.3 	0.3
+}
+
+
+ event KritzDigit
+{
+	Animate KCounter0  								Alpha 		"255" 							Linear 	0.0 	0.0
+	Animate KCounter0								Alpha 		"0"   							Linear	0.4125 	0.0
+	Animate KCounter1 								Alpha 		"255"   						Linear 	0.4125  0.0
+	Animate KCounter1 								Alpha 		"0"   							Linear 	0.825 	0.0
+	Animate KCounter2 								Alpha 		"255"  							Linear 	0.825 	0.0
+	Animate KCounter2 								Alpha		"0"  							Linear 	1.2375 	0.0
+	Animate KCounter3								Alpha 		"255"  							Linear 	1.2375 	0.0
+	Animate KCounter3 								Alpha 		"0"   							Linear 	1.65 	0.0
+	Animate KCounter4 								Alpha 		"255"   						Linear 	1.65 	0.0
+	Animate KCounter4 								Alpha 		"0"   							Linear 	2.0265 	0.0
+	Animate KCounter5 								Alpha 		"255"   						Linear 	2.0265 	0.0
+	Animate KCounter5 								Alpha		"0"  							Linear 	2.4779 	0.0
+	Animate KCounter6 								Alpha 		"255"   						Linear 	2.4779 	0.0
+	Animate KCounter6 								Alpha 		"0"  							Linear 	2.8904 	0.0
+	Animate KCounter7 								Alpha 		"255"   						Linear 	2.8904 	0.0
+	Animate KCounter7 								Alpha 		"0"   							Linear 	3.3029 	0.0
+	Animate KCounter8 								Alpha 		"255"  							Linear 	3.3029 	0.0
+	Animate KCounter8								Alpha 		"0"  							Linear 	3.7154 	0.0
+	Animate KCounter9 								Alpha 		"255"  							Linear 	3.7154 	0.0
+}
+
+event KritzDigitLoop
+{
+	RunEvent KritzDigit 							0.0
+	Animate KCounter9 								Alpha 		"0" 							Linear 	0.0 	0.0
+
+	RunEvent KritzDigit 							3.9
+	Animate KCounter9  								Alpha  		"0" 							Linear 	3.9  	0.0
+
+	RunEvent KritzDigit  							7.8
+	Animate KCounter9  								Alpha  		"0"  							Linear  7.8  	0.0
+
+	RunEvent KritzDigit  							11.7
+	Animate KCounter9   							Alpha  		"0"  							Linear  11.7  	0.0
+	
+	RunEvent KritzDigit  							15.6
+	Animate KCounter9   							Alpha 		"0"  							Linear 	15.6  	0.0
+	
+	RunEvent KritzDigit  							19.5
+	Animate KCounter9   							Alpha 		"0"  							Linear 	19.5  	0.0
+	
+	RunEvent KritzDigit  							23.4
+	Animate KCounter9   							Alpha 		"0"  							Linear 	23.4  	0.0
+	
+	RunEvent KritzDigit  							27.3
+	Animate KCounter9   							Alpha 		"0"  							Linear 	27.3 	0.0
+
+	RunEvent KritzDigit  							31.2
+	Animate KCounter9   							Alpha 		"0"  							Linear 	31.2  	0.0
+	
+	RunEvent KritzDigit  							35.1
+	Animate KCounter9   							Alpha 		"0"  							Linear 	35.1  	0.0
+	
+	Animate KCounter9   							Alpha 		"0"  							Linear 	39.0  	0.0
+} 
+
+event ClearKritz
+{
+	StopEvent FillKritz								0.0
+	StopEvent KritzDigit 							0.0
+	StopEvent KritzDigitLoop 						0.0
+
+	Animate AlertKritz 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter10 								Alpha 		"0" 							Linear 	0.0		0.0
+	Animate KCounter20 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter30 								Alpha 		"0" 							Linear	0.0 	0.0
+	Animate KCounter40 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter50 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter60 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter70 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter80 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter90 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter100 							Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter0 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter1 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter2 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter3 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter4 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter5 								Alpha 		"0"  							Linear 	0.0		0.0
+	Animate KCounter6 								Alpha 		"0"  							Linear 	0.0 	0.0
+	Animate KCounter7 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter8 								Alpha 		"0" 							Linear 	0.0 	0.0
+	Animate KCounter9 								Alpha 		"0" 							Linear 	0.0 	0.0
+}
+
+//===========================================================================================================================
+
+event ScopeDie
+{
+	//Animate HudScope Position "9999 9999" Linear 0.0 0.0
+}

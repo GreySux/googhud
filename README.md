@@ -2,10 +2,12 @@
 
 To install, press the green "Code" on github, then download ZIP. Once downloaded, open/unzip the file and drag the folder "googhud-main" into \Team Fortress 2\tf\custom
 
-Currently 1.2 release. this upodate includes:
-- a bunch of fixes
+Currently 1.3 release. this upodate includes:
+- a couple fixes
+- transparent viewmodel support
+- uber and kritz counters
 
-1.2 is the most stable release to date, with plenty of bug fixes and what not. as always, dm me any issues you have!
+As always, dm me any issues you have!
 
 Screenshots: [here](https://imgur.com/a/H6aybW9)
 
@@ -20,6 +22,7 @@ Thanks to the following folks who I borrowed hud elements from:
 - mrcolour - colourhud
 - whisker - budhud
 - paolo - noobpanzerhud
+- lava - base for uber counter
 - jarateking - HUD Reference Wiki
 
 

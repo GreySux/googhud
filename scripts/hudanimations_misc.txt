@@ -1,0 +1,116 @@
+event HudTournamentSetupPanelOpen
+{
+	Animate HudTournamentSetup						ypos		"-50"								Linear 	0.0 	0.001
+	Animate HudTournamentSetup						ypos		"74"								Spline 	0.001	0.1
+}
+event HudTournamentSetupPanelClose
+{
+	Animate HudTournamentSetup						ypos		"74"								Linear 	0.0 	0.001
+	Animate HudTournamentSetup						ypos		"-50"								Spline 	0.001 	0.6
+}
+
+//===========================================================================================================================
+
+event MenuOpen
+{	
+    RunEvent ScopeDie								0.0
+	StopEvent MenuClose 							0.0
+
+	Animate HudMenu 								Alpha 			"255"						Linear 	0.0 	0.1
+	Animate HudMenu 								SelectionAlpha 	"255"						Linear 	0.0 	0.1
+	Animate HudMenu 								FgColor			"FgColor"					Linear 	0.0 	0.1
+	Animate HudMenu 								MenuColor		"MenuColor"					Linear 	0.0 	0.1
+	Animate HudMenu 								ItemColor		"ItemColor"					Linear 	0.0 	0.1
+	Animate HudMenu 								TextScan		"1"							Linear 	0.0 	0.1
+
+	Animate HudMenu									Blur			"1"							Linear	0.0		0.01
+	
+	RunEvent ClearCounter 							0.0
+	RunEvent ClearKritz 							0.0
+}
+
+event MenuPulse
+{
+	Animate HudMenu									Blur			"7"							Linear	0.0		0.1
+	Animate HudMenu									Blur			"2"							Deaccel	0.1		0.1
+	Animate HudMenu									Blur			"7"							Linear	0.2		0.1
+	Animate HudMenu									Blur			"2"							Deaccel	0.3		0.1
+	Animate HudMenu									Blur			"7"							Linear	0.4		0.1
+	Animate HudMenu									Blur			"2"							Deaccel	0.5		0.1
+	Animate	HudMenu									Blur			"1"							Deaccel	0.6		0.4
+
+	RunEvent ClearCounter 							0.0
+	RunEvent ClearKritz								0.0
+}
+
+event MenuClose
+{
+	Animate HudMenu 								Alpha 			"0" 						Linear 	0.0 	1
+	Animate HudMenu 								SelectionAlpha 	"0" 						Linear 	0.0 	1
+	Animate HudMenu 								FgColor			"0 0 0 0" 					Linear 	0.0 	1
+	Animate HudMenu 								MenuColor		"0 0 0 0" 					Linear 	0.0 	1
+	Animate HudMenu 								ItemColor		"0 0 0 0" 					Linear 	0.0 	1
+	
+	RunEvent FillCounter 							0.0
+	RunEvent FillKritz 								0.0
+}
+
+//===========================================================================================================================
+
+event FlagOutline{}
+event CompetitiveGame_LowerChatWindow{}
+event CompetitiveGame_RestoreChatWindow{}
+event HudTournament_MoveChatWindow{}
+event RDPositiveScorePulse{}
+event RDNegativeScorePulse{}
+event HudSnapShotReminderIn{}
+event ActiveTimerHighlight{}
+event ActiveTimerDim{}
+event HasNotificationsBlink{}
+event HasNotificationsBlinkStop{}
+event TeamStatus_PlayerDead{}
+event TeamStatus_PlayerAlive{}
+event HasMOTDBlink{}
+event HasNotificationsBlink{}
+event XPSourceShow_Positive{}
+event XPSourceShow_Negative{}
+event LevelInit{}
+event OpenWeaponSelectionMenu{}
+event CloseWeaponSelectionMenu{}
+event TimerIncrement{}
+event TimerDecrement{}
+event ResourceIncrement{}
+event ResourceDecrement{}
+event ResourcePickup{}
+event HintMessageShow{}
+event KeyHintMessageShow{}
+event MMenu_UpdateButton_StartGlow{}
+event MMenu_UpdateButton_SubtleGlow{}
+event QuestMap_LoadingLoop{}
+event QuestMap_StaticFadeOut{}
+event QuestMap_StaticBar1Loop{}
+event QuestMap_StaticBar2Loop{}
+event QuestMap_StaticBarOverlayLoop{}
+event QuestMap_StaticBarOverlayBrighten{}
+event QuestMap_StaticBarOverlayDarken{}
+event QuestNodeView_PinTipHighlight{}
+event QuestMapIntro_StageReveal{}
+event QuestMapIntro_ShowStage{}
+event QuestMapIntro_ClearStage{}
+event QuestNodeView_QuestPurchased{}
+event QuestViewSubPanel_QuestPurchased{}
+event QuestViewSubPanel_SelectMouseOver{}
+event QuestViewSubPanel_SelectMouseExit{}
+event QuestMap_ShowLegend{}
+event QuestMap_HideLegend{}
+event QuestMap_CreditNotificationAcknowledge{}
+event QuestMap_CreditHideAnim{}
+event QuestMap_CreditNotificationShow{}
+event QuestMap_CreditShowAnim{}
+event ObjectiveCompletedByUser{}
+event QuestReport_ContractComplete{}
+event QuestReport_ContractProgress{}
+event ObjectiveCompletionFanfare{}
+event ObjectiveCompletionFanfareEnd{}
+
+//===========================================================================================================================

@@ -698,4 +698,21 @@ HudMatchStatus
 		"image" "replay/thumbnails/numbers4"
 		"scaleimage" "1"
 	}
+	
+//TRANSPARENT VIEWMODELS SECTION, JUST CHANGE THE VISIBLE AND ENABLED TO 0 OR 1 AS NEEDED//
+
+	  "TransparentViewmodel"
+   	{
+        "visible"            "0" //HERE
+        "enabled"            "0" //HERE
+        "controlName"        "ImagePanel"
+        "fieldName"            "TransparentViewmodel"
+        "zpos"                "-100"
+        "xpos"                "0"
+        "ypos"                "0"
+        "wide"                "f0"
+        "tall"                "480"
+        "image"                "replay/thumbnails/viewmodel/refract"
+        "scaleImage"        "1"
+   	}
 }

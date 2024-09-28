@@ -4,7 +4,7 @@ contact greysucks on discord if you need any help!
 *****THE BASICS******
 REMOVE _  AT END OF FOLDER NAME FOR OPTION YOU WANT TO USE, ADD _ FOR OPTIONS YOU DONT WANT
 
-ie. if I wanted to use 2dplayermodel and health cross
+ie. if I wanted to use 2dplayermodel, change the folder name as follows
 "2dplayermodel_" --> "2dplayermodel"
 
 
@@ -34,6 +34,8 @@ for some reason the speedometer does not want to work via a customization file. 
 -look for lines with "visible" or "enabled" and change their values from "0" to "1"
 -woohoo you did it im proud of you
 
+**TRANSPARENT VIEWMODEL**
+-same process as the speedometer, scroll down to the transparent viewmodel section and change the value of visible and enabled from 0 to 1
 
 **FONTS**
 unfortunately you'll have to do this manually for now, although i will impliment this in the future. anyways, please use the following guide: https://github.com/rbjaxter/budhud/wiki/Adding---Replacing-Custom-Fonts

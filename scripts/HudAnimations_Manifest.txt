@@ -5,6 +5,7 @@ hudanimations_manifest
 
 ///////REMOVE // FROM THE ONE YOU WANT TO USE, ADD // TO THE ONES YOU ARENT USING/////////
 
+
 	"file" "scripts/hudanimations_health.txt"
 //	"file" "scripts/hudanimations_healthbox.txt"
 
@@ -16,6 +17,10 @@ hudanimations_manifest
 	"file"	"scripts/hudanimations_chatfix.txt"
 	"file"	"scripts/hudanimations_fix.txt"
 
+/////these are for uber or kritz counter, same deal//////
+
+//	"file" "scripts/hudanimations_kcounter.txt"
+//	"file" "scripts/hudanimations_counter.txt"
 
 
 ///////DONT TOUCH THESE UNLESS YOU KNOW WHAT YOU ARE DOING K THANKS LOVE YOU/////////
@@ -31,4 +36,5 @@ hudanimations_manifest
 	"file"	"scripts/hudanimations_koth.txt"
 	"file"	"scripts/hudanimations_ctf.txt"
 	"file"	"scripts/hudanimations_tournament.txt"
+	"file" "scripts/hudanimations_misc.txt"
 }
