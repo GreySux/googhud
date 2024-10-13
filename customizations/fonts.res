@@ -1,6 +1,6 @@
 /////custom fonts!!! to use a desired font, REMOVE THE // from the beginning of the font you would like to use/////
 
-//update 3/29/24, i don't believe this currently works, if you are interested in getting a custom font in then message me on discord @greysucks so i can fix this
+//im sorry i still havent updated this, it will be done eventually i swear
 
 //INTER//
 //#base 	"../../resource/scheme/fonts_inter.res"

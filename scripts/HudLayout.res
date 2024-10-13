@@ -638,8 +638,8 @@ HudMatchStatus
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "speed1"
-		"visible" "0" //HERE
-		"enabled" "0" //HERE
+		"visible" "1" //HERE
+		"enabled" "1" //HERE
 		"xpos" "c16"
 		"ypos" "c160"
 		"zpos" "0"
@@ -654,8 +654,8 @@ HudMatchStatus
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "numbers1"
-		"visible" "0" //HERE
-		"enabled" "0" //HERE
+		"visible" "1" //HERE
+		"enabled" "1" //HERE
 		"xpos" "c0"
 		"ypos" "c160"
 		"zpos" "0"
@@ -670,8 +670,8 @@ HudMatchStatus
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "numbers1"
-		"visible" "0" //HERE
-		"enabled" "0" //HERE
+		"visible" "1" //HERE
+		"enabled" "1" //HERE
 		"xpos" "c-16"
 		"ypos" "c160"
 		"zpos" "0"
@@ -686,8 +686,8 @@ HudMatchStatus
 	{
 		"controlName" "CTFImagePanel"
 		"fieldName" "numbers1"
-		"visible" "0" //HERE
-		"enabled" "0" //HERE
+		"visible" "1" //HERE
+		"enabled" "1" //HERE
 		"xpos" "c-32"
 		"ypos" "c160"
 		"zpos" "0"
@@ -698,7 +698,7 @@ HudMatchStatus
 		"image" "replay/thumbnails/numbers4"
 		"scaleimage" "1"
 	}
-	
+
 //TRANSPARENT VIEWMODELS SECTION, JUST CHANGE THE VISIBLE AND ENABLED TO 0 OR 1 AS NEEDED//
 
 	  "TransparentViewmodel"

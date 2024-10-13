@@ -19,8 +19,8 @@ hudanimations_manifest
 
 /////these are for uber or kritz counter, same deal//////
 
-//	"file" "scripts/hudanimations_kcounter.txt"
-//	"file" "scripts/hudanimations_counter.txt"
+	"file" "scripts/hudanimations_kcounter.txt"
+	"file" "scripts/hudanimations_counter.txt"
 
 
 ///////DONT TOUCH THESE UNLESS YOU KNOW WHAT YOU ARE DOING K THANKS LOVE YOU/////////

@@ -503,9 +503,8 @@ Scheme
 			"5"
 			{
 				"name"		"Inter Medium"
-				"tall"		"24"
+				"tall"		"12"
 				"weight"	"500"
-				"yres"	"1200 10000"
 				"antialias"	"1"
 			}
 		}
@@ -553,11 +552,10 @@ Scheme
 			"5"
 			{
 				"name"		"Inter Medium"
-				"tall"		"52"
+				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
-				"yres"		"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
@@ -639,6 +637,15 @@ Scheme
 			{
 				"name"		"Inter Medium"
 				"tall"		"24"
+				"weight"	"500"
+				"yres"		"1 1199"
+				"additive"	"0"
+				"antialias" "1"
+			}
+			"2"
+			{
+				"name"		"Inter Medium"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
